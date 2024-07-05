@@ -107,21 +107,21 @@ The statistics for the teams playing in Southern Maine United Soccer League (SMU
 | Rank | Team | Elo Rating |
 | :----: | :---- | :----------: |
 | 1 | U Gonna Learn Today | 1964 |
-| 2 | Thunder FC | 1713 |
-| 3 | Duppy Conquerors | 1675|
-| 4 | Farmers FC | 1646|
-| 5 | Carlos Auto Repair | 1545|
-| 6 | One Love FC | 1527|
+| 2 | Thunder FC | 1710 |
+| 3 | Duppy Conquerors | 1670 |
+| 4 | Farmers FC | 1646 |
+| 5 | One Love FC | 1551 |
+| 6 | Carlos Auto Repair | 1544 |
 | 7 | Midcoast | 1511|
 | 8 | Old Port FC | 1467|
-| 9 | Lone Pine | 1461|
-| 10 | Portland Phoenix FC | 1439|
-| 11 | Baxter Pines FC | 1414|
-| 12 | The Escape Room | 1394| 
-| 13 | The Real Portland Timbers | 1342|
+| 9 | Lone Pine | 1446 |
+| 10 | Portland Phoenix FC | 1439 |
+| 11 | Baxter Pines FC | 1415 |
+| 12 | The Escape Room | 1392 | 
+| 13 | The Real Portland Timbers | 1342 |
 | 14 | JW Group | 1314 |
-| 15 | Heartbreakers FC | 1310| 
-| 16 | Yankee Ford Sporting Club | 1278|
+| 15 | Heartbreakers FC | 1312 | 
+| 16 | Yankee Ford Sporting Club | 1278 |
 
 # The Biggest Upset
 
@@ -133,7 +133,7 @@ The statistics for the teams playing in Southern Maine United Soccer League (SMU
 | 2021-10-07 | Quarter-Finals | Duppy Conquerors | The Real Portland Timbers | 1692.06 | 1305.39 | 81 | 18 | 1 | 0 | 1 |-45.13|
 | 2023-07-25 | Week 7 | Thunder United FC | Farmers FC | 1662.36 | 1565.74 | 40 | 47 | 13 | 0 | 3 |-44.49|
 | 2021-10-19 | Final | U Gonna Learn Today | One Love FC | 1769.36 | 1746.75 | 28 | 50 | 22 | 1 | 2 |-42.60|
-| 2024-07-02 | Week 3 | Baxter Pines FC | Old Port FC | 1453.95 | 1427.05 | 29 | 50 | 21 | 0 | 4 |-40.40|
+| 2024-07-02 | Week 3 | Baxter Pines FC | Old Port FC | 1455.45 | 1425.90 | 29 | 50 | 21 | 0 | 4 |-40.40|
 | 2021-06-22 | Week 1 | The Escape Room | Midcoast | 1500.00 | 1500.00 | 25 | 50 | 25 | 0 | 5 |-40.00|
 | 2021-06-24 | Week 1 | Jibe/Lone Pine | U Gonna Learn Today | 1500.00 | 1500.00 | 25 | 50 | 25 | 0 | 4 |-37.50|
 | 2022-09-27 | Quarter-Finals | Duppy Conquerors | Farmers FC | 1637.21 | 1466.29 | 53 | 40 | 7 | 1 | 2 |-36.39|
