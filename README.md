@@ -7,25 +7,14 @@ The statistics includes:
 - Most Unexpected
 - and to be added more..
 
-<div class="tab">
-  <button class="tablinks" onclick="openTeam(event, 'General')">General</button>
-  <button class="tablinks" onclick="openTeam(event, 'Thunder FC')">Thunder FC</button>
-  <button class="tablinks" onclick="openTeam(event, 'Lone Pine')">Lone Pine</button>
-</div>
+## Elo Rating
+- [all](###all)
+- [Thunder FC](###thunder-fc)
+### All
+![elo-rating-all](/fig/elo-ratings-bar-chart-00.png)
+### Thunder FC
 
-<!-- Tab content -->
-<div id="general" class="tabcontent">
-    <img src="/fig/elo-ratings-bar-chart-00.png">
-    <img src="./fig/elo-ratings-bar-chart-00.png">
-</div>
-
-<div id="Thunder FC" class="tabcontent">
-    <img src="/fig/elo-ratings-bar-chart-thunder.png">
-</div>
-
-<div id="Lone Pine" class="tabcontent">
-    <img src="/fig/elo-ratings-bar-chart-lonepine.png">
-</div>
+### 
 
 # Reference
 [1]Wikipedia Contributors, “Elo rating system,” Wikipedia, Apr. 02, 2019. https://en.wikipedia.org/wiki/Elo_rating_system (accessed Jul. 5, 2024).
