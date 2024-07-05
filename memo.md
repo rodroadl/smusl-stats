@@ -1,6 +1,6 @@
 # TODO
 - [ ] write the report after doule-checking
-    - [ ] double-check data
+    - [x] double-check data
     - [x] double-check code
     - [x] Take a look at ```61	2022-10-04	Semi-Finals	U Gonna Learn Today	Envy Construction	1433.44	1496.60	41.0	59.0	4	1	-24.61```
         - U Gonna Learn Today with 1433.44 Elo?
