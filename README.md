@@ -24,7 +24,7 @@ The statistics for the teams playing in Southern Maine United Soccer League (SMU
 
 ## Ranking
 | Rank | Team | Elo Rating |
-| ---- | ---- | ---------- |
+| :----: | :---- | :----------: |
 | 1 | U Gonna Learn Today | 1964 |
 | 2 | Thunder FC | 1713 |
 | 3 | Duppy Conquerors | 1675|
@@ -44,7 +44,7 @@ The statistics for the teams playing in Southern Maine United Soccer League (SMU
 
 ## The Biggest Upset
 | Date	| Week	| Home	| Away	| Home Elo | Away Elo | Win	| Draw | Lose | Home Score | Away Score | Elo +/- |
-| ---- | ---- | ---- | ---- | -------- | -------- | --- | ---- | ---- | ---------- | ---------- | ------- |
+| ---- | ---- | ----: | :---- | --------: | :-------- | ---: | :----: | :---- | ----------: | :---------- | ------- |
 | 2022-09-27 | Quarter-Finals |	Real FC United Thunder | Escape Room | 1637.95 | 1382.55 | 66 | 31 | 3 | 1 | 3 | -60.98 |
 | 2021-09-28 | Week 15 | The Real Portland Timbers | JW Group	| 1368.45 | 1275.98 | 40 | 46 | 14 | 2 | 6 |-47.25|
 | 2021-09-28 | Week 15 | U Gonna Learn Today | One Love FC	| 1788.14 | 1677.06 | 43 | 45 | 12 | 2 | 5 |-45.82|
