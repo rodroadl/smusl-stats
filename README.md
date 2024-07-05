@@ -23,6 +23,7 @@ The statistics for the teams playing in Southern Maine United Soccer League (SMU
 ![elo-rating-lonepine](/fig/elo-ratings-bar-chart-lonepine.png)
 
 ## Ranking
+
 | Rank | Team | Elo Rating |
 | :----: | :---- | :----------: |
 | 1 | U Gonna Learn Today | 1964 |
@@ -43,6 +44,7 @@ The statistics for the teams playing in Southern Maine United Soccer League (SMU
 | 16 | Yankee Ford Sporting Club | 1278|
 
 ## The Biggest Upset
+
 | Date	| Week	| Home	| Away	| Home Elo | Away Elo | Win	| Draw | Lose | Home Score | Away Score | Elo +/- |
 | ---- | ---- | ----: | :---- | --------: | :-------- | ---: | :----: | :---- | ----------: | :---------- | ------- |
 | 2022-09-27 | Quarter-Finals |	Real FC United Thunder | Escape Room | 1637.95 | 1382.55 | 66 | 31 | 3 | 1 | 3 | -60.98 |
@@ -57,6 +59,7 @@ The statistics for the teams playing in Southern Maine United Soccer League (SMU
 | 2022-09-27 | Quarter-Finals | Duppy Conquerors | Farmers FC | 1637.21 | 1466.29 | 53 | 40 | 7 | 1 | 2 |-36.39|
 
 ## The Most Unexpected Outcome
+
 | Date	| Week	| Home	| Away	| Home Elo | Away Elo | Win	| Draw | Lose | Home Score | Away Score | Elo +/- |
 | ---- | ---- | ----: | :---- | --------: | :-------- | ---: | :----: | :---- | ----------: | :---------- | ------- |
 | 2021-10-07 | Quarter-Finals | Duppy Conquerors | The Real Portland Timbers | 1692.06 | 1305.39 | 81 | 18 | 1 | 0 | 1 | -45.13 |
