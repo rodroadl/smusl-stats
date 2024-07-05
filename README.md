@@ -34,30 +34,72 @@ The statistics for the teams playing in Southern Maine United Soccer League (SMU
 
 ## All
 
-![elo-rating-all](/fig/elo-ratings-bar-chart-00.png)
+![elo-rating-all](fig/elo-ratings-bar-chart-all.png)
 
 ## Baxter Pines FC
+
+![elo-rating-baxter-pines-fc](fig/elo-ratings-bar-chart-baxter-pines-fc.png)
+
 ## Carlos Auto Repair
+
+![elo-rating-carlos-auto-repair](fig/elo-ratings-bar-chart-carlos-auto-repair.png)
+
 ## Duppy Conquerors
+
+![elo-rating-duppy-conquerors](fig/elo-ratings-bar-chart-duppy-conquerors.png)
+
 ## Farmers FC
+
+![elo-rating-farmers-fc](fig/elo-ratings-bar-chart-farmers-fc.png)
+
 ## Heartbreakers FC
+
+![elo-rating-heartbreakers-fc](fig/elo-ratings-bar-chart-heartbreakers-fc.png)
+
 ## JW Group
+
+![elo-rating-jw-group](fig/elo-ratings-bar-chart-jw-group.png)
+
 ## Lone Pine
 
-![elo-rating-lonepine](/fig/elo-ratings-bar-chart-lonepine.png)
+![elo-rating-lone-pine](fig/elo-ratings-bar-chart-lone-pine.png)
 
 ## Midcoast
+
+![elo-rating-midcoast](fig/elo-ratings-bar-chart-midcoast.png)
+
 ## Old Port FC
+
+![elo-rating-old-port-fc](fig/elo-ratings-bar-chart-old-port-fc.png)
+
 ## One Love FC
+
+![elo-rating-one-love-fc](fig/elo-ratings-bar-chart-one-love-fc.png)
+
 ## Portland Phoenix FC
+
+![elo-rating-portland-phoenix-fc](fig/elo-ratings-bar-chart-portland-phoenix-fc.png)
+
 ## The Escape Room
+
+![elo-rating-the-escape-room](fig/elo-ratings-bar-chart-the-escape-room.png)
+
 ## The Real Portland Timbers
+
+![elo-rating-the-real-portland-timbers](fig/elo-ratings-bar-chart-the-real-portland-timbers.png)
+
 ## Thunder FC
 
-![elo-rating-thunder](/fig/elo-ratings-bar-chart-thunder.png)
+![elo-rating-thunder-fc](fig/elo-ratings-bar-chart-thunder-fc.png)
 
 ## U Gonna Learn Today
+
+![elo-rating-u-gonna-learn-today](fig/elo-ratings-bar-chart-u-gonna-learn-today.png)
+
 ## Yankee Ford Sporting Club
+
+![elo-rating-yankee-ford-sporting-club](fig/elo-ratings-bar-chart-yankee-ford-sporting-club.png)
+
 
 
 # Ranking
