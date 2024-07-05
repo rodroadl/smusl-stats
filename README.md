@@ -1,4 +1,4 @@
-![logo](fig/logo-00.png)
+<img src="/fig/logo-00.png" alt="logo" width="30%">
 
 # SMUSL-STATS
 The statistics for the teams playing in Southern Maine United Soccer League (SMUSL) from 2021 to today.
