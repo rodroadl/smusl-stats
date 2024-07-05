@@ -12,6 +12,7 @@
 - [ ] make the graph interactive
 - [ ] implement pre-season preparedness
 - [ ] create the dashboard
+- [ ] implement [winning/not-losing/not-winning/losing] streak
 
 - [-] ***HOLD***implement tilt
     - New_tilt = 0.98 * Old_tilt + 0.02 *Game_total_goals/Opposition_tilt/Exp_Game_total_goals

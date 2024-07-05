@@ -2,31 +2,65 @@
     <img src="fig/logo-01.png" alt="logo" width="30%">
 </p>
 
-# SMUSL-STATS
 The statistics for the teams playing in Southern Maine United Soccer League (SMUSL) from 2021 to today.
 
-## Content
+# Content
+
 - [Elo rating](#elo-rating)
 - [Ranking](#ranking)
 - [Biggest upset](#the-biggeest-upset)
 - [Most Unexpected Outcome](#the-most-unexpected-outcome)
 - [Reference](#reference)
 
-## Elo Rating
-- [All](#all)
-- [Thunder FC](#thunder-fc)
-- [Lone Pine](#lone-pine)
+# Elo Rating
 
-### All
+- [All](#all)
+- [Baxter Pines FC](#baxter-pines-fc)
+- [Carlos Auto Repair](#carlos-auto-repair)
+- [Duppy Conquerors](#duppy-conquerors)
+- [Farmers FC](#farmers-fc)
+- [Heartbreakers FC](#heartbreakers-fc)
+- [JW Group](#jw-group)
+- [Lone Pine](#lone-pine)
+- [Midcoast](#midcoast)
+- [Old Port FC](#old-port-fc)
+- [One Love FC](#one-love-fc)
+- [Portland Phoenix FC](#portland-phoenix-fc)
+- [The Escape Room](#the-escape-room)
+- [The Real Portland Timbers](#the-real-portland-timbers)
+- [Thunder FC](#thunder-fc)
+- [U Gonna Learn Today](#u-gonna-learn-today)
+- [Yankee Ford Sporting Club](#yankee-ford-sporting-club)
+
+## All
+
 ![elo-rating-all](/fig/elo-ratings-bar-chart-00.png)
 
-### Thunder FC
-![elo-rating-thunder](/fig/elo-ratings-bar-chart-thunder.png)
+## Baxter Pines FC
+## Carlos Auto Repair
+## Duppy Conquerors
+## Farmers FC
+## Heartbreakers FC
+## JW Group
+## Lone Pine
 
-### Lone Pine
 ![elo-rating-lonepine](/fig/elo-ratings-bar-chart-lonepine.png)
 
-## Ranking
+## Midcoast
+## Old Port FC
+## One Love FC
+## Portland Phoenix FC
+## The Escape Room
+## The Real Portland Timbers
+## Thunder FC
+
+![elo-rating-thunder](/fig/elo-ratings-bar-chart-thunder.png)
+
+## U Gonna Learn Today
+## Yankee Ford Sporting Club
+
+
+# Ranking
 
 | Rank | Team | Elo Rating |
 | :----: | :---- | :----------: |
@@ -47,7 +81,7 @@ The statistics for the teams playing in Southern Maine United Soccer League (SMU
 | 15 | Heartbreakers FC | 1310| 
 | 16 | Yankee Ford Sporting Club | 1278|
 
-## The Biggest Upset
+# The Biggest Upset
 
 | Date	| Week	| Home	| Away	| Home Elo | Away Elo | Win	| Draw | Lose | Home Score | Away Score | Elo +/- |
 | ---- | ---- | ----: | :---- | --------: | :-------- | ---: | :----: | :---- | ----------: | :---------- | ------- |
@@ -62,7 +96,7 @@ The statistics for the teams playing in Southern Maine United Soccer League (SMU
 | 2021-06-24 | Week 1 | Jibe/Lone Pine | U Gonna Learn Today | 1500.00 | 1500.00 | 25 | 50 | 25 | 0 | 4 |-37.50|
 | 2022-09-27 | Quarter-Finals | Duppy Conquerors | Farmers FC | 1637.21 | 1466.29 | 53 | 40 | 7 | 1 | 2 |-36.39|
 
-## The Most Unexpected Outcome
+# The Most Unexpected Outcome
 
 | Date	| Week	| Home	| Away	| Home Elo | Away Elo | Win	| Draw | Lose | Home Score | Away Score | Elo +/- |
 | ---- | ---- | ----: | :---- | --------: | :-------- | ---: | :----: | :---- | ----------: | :---------- | ------- |
@@ -77,7 +111,7 @@ The statistics for the teams playing in Southern Maine United Soccer League (SMU
 | 2022-08-18 | Week 10 | Portland Phoenix | FC Duppy Conquerors | 1397.27 | 1599.91 | 6 | 36 | 58 |	3 |	2 |	30.50 |
 | 2022-06-30 | Week 3 | Farmers FC | Escape Room | 1567.95 | 1388.97 | 54 | 39 | 7 | 2 | 3 | -29.48 |
 
-## Reference
+# Reference
 [1]Wikipedia Contributors, “Elo rating system,” Wikipedia, Apr. 02, 2019. https://en.wikipedia.org/wiki/Elo_rating_system (accessed Jul. 5, 2024).
 
 ‌[2]Wikipedia Contributors, “World Football Elo Ratings,” Wikipedia, Apr. 04, 2019. https://en.wikipedia.org/wiki/World_Football_Elo_Ratings (accessed Jul. 5, 2024).
