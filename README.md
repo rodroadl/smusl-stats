@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="fig/logo-00.png" alt="logo" width="30%">
+    <img src="fig/logo-01.png" alt="logo" width="30%">
 </p>
 
 # SMUSL-STATS
