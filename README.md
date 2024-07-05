@@ -1,5 +1,6 @@
-<div style="text-align: center;">
-    <img src="/fig/logo-00.png" alt="logo" width="30%">
+
+<div style="text-align: center">
+    <img src="https://github.com/rodroadl/smusl-stats/blob/main/fig/logo-00.png" alt="logo" width="30%">
 </div>
 
 # SMUSL-STATS
