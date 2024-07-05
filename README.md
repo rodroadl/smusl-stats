@@ -8,10 +8,12 @@ The statistics includes:
 - and to be added more..
 
 ## Elo Rating
-- [all](###all)
-- [Thunder FC](###thunder-fc)
+- [all](#all)
+- [Thunder FC](#thunder-fc)
+
 ### All
 ![elo-rating-all](/fig/elo-ratings-bar-chart-00.png)
+
 ### Thunder FC
 
 ### 
@@ -29,6 +31,7 @@ The statistics includes:
 
 # Data Source
 [6]“Home,” SMUSL. https://www.smusl.com/ (accessed Jul. 05, 2024).
+
 [‌7]“League and Tournament Scheduler by LeagueLobster,” scheduler.leaguelobster.com. https://scheduler.leaguelobster.com (accessed Jul. 05, 2024).
 ‌
 ‌
