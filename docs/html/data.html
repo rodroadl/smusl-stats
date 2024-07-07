@@ -40,9 +40,8 @@
             <div class="right">
                 <div class="block">
                     <h1 align="center">Match</h1>
-                    <div id="observablehq-viewof-search_match-351a6d6f"></div>
-
-                    <div id="observablehq-table_match-351a6d6f"></div>
+                    <div id="observablehq-viewof-search_match-c465a95e" class="search"></div>
+                    <div id="observablehq-table_match-c465a95e"></div>
                 </div>  
             </div>
         </div>
@@ -50,10 +49,12 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
     <script type="module">
         import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-        import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@70.js?v=4";
+        import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@75.js?v=4";
         new Runtime().module(define, name => {
-        if (name === "viewof search_match") return new Inspector(document.querySelector("#observablehq-viewof-search_match-351a6d6f"));
-        if (name === "table_match") return new Inspector(document.querySelector("#observablehq-table_match-351a6d6f"));
+            if (name === "viewof search_match") return new Inspector(document.querySelector("#observablehq-viewof-search_match-c465a95e"));
+            if (name === "table_match") return new Inspector(document.querySelector("#observablehq-table_match-c465a95e"));
+            if (name === "table_biggest_upset") return new Inspector(document.querySelector("#observablehq-table_biggest_upset-c465a95e"));
+            if (name === "table_most_unexpected") return new Inspector(document.querySelector("#observablehq-table_most_unexpected-c465a95e"));
         });
     </script>
 </html>
