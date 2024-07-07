@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>SMUSL STATS</title>
+        <link rel="StyleSheet" href="css/style_index.css" type="text/css">
+        <meta name="author" content="James Kim">
+        <link rel="shortcut icon" type="image/x-icon" href="fig/favicon.ico">
+        <script
+            src="https://code.jquery.com/jquery-3.7.0.min.js"
+            integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g="
+            crossorigin="anonymous">
+        </script>
+        <script  src="script/script_index.js"></script>
+    </head>
+
+    <body>
+        
+        <div class="header">
+            <div class="logo"><img class="logo" src="fig/logo-01.png"></div>
+            <div class="top">
+                <h1 class="title">SMUSL STATS</h1>
+                <div class="topnav">
+                    <a class="active" href="index.html">Home</a>
+                    <a href="html/data.html">Data</a>
+                    <a href="html/forum.html">Forum</a>
+                    <a href="html/methodology.html">Methodology</a>
+                    <a href="html/api.html">API</a>
+                    <a href="html/contact.html">contact</a>
+                </div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="left">
+                <div class="block">
+                    <h1 align="center">Content</h1>
+                    <table class="index">
+                        <tr><td ><a class="section to-the-top">To the Top</a></td></tr>
+                        <tr><td><a class="section" href="#div-elo-rating">Elo Rating</a></td></tr>
+                        <tr><td><a class="section" href="#observablehq-table_biggest_upset-b51cab08">The Biggest Upset</a></td></tr>
+                        <tr><td><a class="section" href="#observablehq-table_most_unexpected-b51cab08">The Most Unexpected Outcome</a></td></tr>
+                    </table>
+                </div>
+
+                <div class="block">
+                    <h2 align="center">Rank</h2>
+                    <p align="center">Click on the team to highlight the graph</p>
+
+                    <table align="center">
+                        <tr>
+                            <th>Rank</th>
+                            <th>Team</th>
+                            <th>Elo</th>
+                        </tr>
+                        <tr>
+                            <td>1 </td> 
+                            <td><button class="team" value="u-gonna-learn-today">U Gonna Learn Today</button></td>
+                            <td id="u-gonna-learn-today">1964</td>
+                        </tr>
+                        <tr>
+                            <td>2 </td> 
+                            <td><button class="team" value="thunder-fc">Thunder FC</button></td>
+                            <td id="thunder-fc">1710</td>
+                        </tr>
+                        <tr>
+                            <td>3 </td> 
+                            <td><button class="team" value="duppy-conquerors">Duppy Conquerors</button></td>
+                            <td id="duppy-conquerors">1670</td>
+                        </tr>
+                        <tr>
+                            <td>4 </td> 
+                            <td><button class="team" value="farmers-fc">Farmers FC</button></td>
+                            <td id="farmers-fc">1646</td>
+                        </tr>
+                        <tr>
+                            <td>5</td> 
+                            <td><button class="team" value="one-love-fc">One Love FC</button></td>
+                            <td id="one-love-fc">1551</td>
+                        </tr>
+                        <tr >
+                            <td>6</td> 
+                            <td><button class="team" value="carlos-auto-repair">Carlos Auto Repair</button></td>
+                            <td id="carlos-auto-repair">1544</td>
+                        </tr>
+                        <tr>
+                            <td>7</td> 
+                            <td><button class="team" value="midcoast">Midcoast</button></td>
+                            <td id="midcoast">1511</td>
+                        </tr>
+                        <tr>
+                            <td>8</td> 
+                            <td><button class="team" value="old-port-fc">Old Port FC</button></td>
+                            <td id="old-port-fc">1467</td>
+                        </tr>
+                        <tr>
+                            <td>9 </td> 
+                            <td><button class="team" value="lone-pine">Lone Pine</button></td>
+                            <td id="lone-pine"> 1446 </td>
+                        </tr>
+                        <tr>
+                            <td>10</td> 
+                            <td><button class="team" value="portland-phoenix-fc">Portland Phoenix FC</button></td>
+                            <td id="portland-phoenix-fc"> 1439 </td>
+                        </tr>
+                        <tr>
+                            <td>11</td> 
+                            <td><button class="team" value="baxter-pines-fc">Baxter Pines FC</button></td>
+                            <td id="baxter-pines-fc"> 1415 </td>
+                        </tr>
+                        <tr>
+                            <td>12</td> 
+                            <td><button class="team" value="the-escape-room">The Escape Room</button></td>
+                            <td id="the-escape-room">1392</td>
+                        </tr>
+                        <tr>
+                            <td>13</td> 
+                            <td><button class="team" value="the-real-portland-timbers">The Real Portland Timbers</button></td>
+                            <td id="the-real-portland-timbers">1342</td>
+                        </tr>
+                        <tr>
+                            <td>14</td> 
+                            <td><button class="team" value="jw-group">JW Group</button></td>
+                            <td id="jw-group">1314</td>
+                        </tr>
+                        <tr>
+                            <td>15</td> 
+                            <td><button class="team" value="heartbreakers-fc">HeartBreakers FC</button></td>
+                            <td id="heartbreakers-fc">1312</td>
+                        </tr>
+                        <tr>
+                            <td>16</td> 
+                            <td><button class="team" value="yankee-ford-sporting-club">Yankee Ford Sporting Club</button></td>
+                            <td id="yankee-ford-sporting-club">1278</td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>
+            <div class="right">
+                <div class="block" id="div-elo-rating">
+                    <h1 align="center">Elo Rating</h1>
+                    <p align="center">The Elo rating is an estimation of its relative strength among other teams based on past results allowing predictions for the future.</p>
+                    <img id="elo-rating" style="max-width: 100%" src="fig/elo-ratings-bar-chart-all.png">
+                </div>  
+
+                <div class="block">
+                    <h2 align="center">The Biggest Upset</h2>
+                    <div id="observablehq-table_biggest_upset-b51cab08"></div>
+                </div>
+                <div class="block">
+                    <h2 align="center">The Most Unexpected Outcome</h2>
+                    <div id="observablehq-table_most_unexpected-b51cab08"></div>
+                </div>
+            </div>
+        </div>
+    </body>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+    <script type="module">
+        import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+        import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@58.js?v=4";
+        new Runtime().module(define, name => {
+        if (name === "table_biggest_upset") return new Inspector(document.querySelector("#observablehq-table_biggest_upset-b51cab08"));
+        if (name === "table_most_unexpected") return new Inspector(document.querySelector("#observablehq-table_most_unexpected-b51cab08"));
+        });
+    </script>
+</html>

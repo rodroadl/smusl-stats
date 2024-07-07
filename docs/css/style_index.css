@@ -1,0 +1,192 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin-left:auto;
+    margin-right: auto;
+    padding: 0px;
+    font-family: Calibri, Sans-Serif;
+}
+
+.header{
+    width:80%;
+    display:flex;
+    background-color: rgba(0,40,0,.9);
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    margin-left:auto;
+    margin-right: auto;
+    border-radius:10px;
+}
+
+div.logo{
+    width:10%;
+    
+}
+img.logo{
+    display: block;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:60%;
+}
+
+.top{
+    width:80%;
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    width: 30%;
+    text-align:center;
+    font-size:50px;
+    margin-right:10px;
+}
+
+.topnav{
+    overflow: hidden;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    margin-left:15px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float:left;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 7px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgba(255,255,255,.5);
+    color: white;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: white;
+    color: rgb(0,40,0);
+  }
+
+
+.left{
+    width:30%;
+    align-self: flex-start;
+    top: 100px;
+    position: sticky;
+    margin: 5px;
+    padding: 0px;
+}
+
+.index{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+button.team{
+    background: rgba(0,0,0,.7);
+    color: white;
+    border: white;
+    text-align:left;
+    width: 100%;
+    font-size:15px;
+    border-radius:5px;
+}
+
+button.team:hover {
+    background: rgba(255,255,255,.5);
+    color: white;
+    border: black;
+    text-align:left;
+    width: 100%;
+    font-size:15px;
+}
+
+a.to-the-top{
+    cursor: pointer;
+}
+a.section{
+    display:block;
+    background: rgba(0,0,0,.4);
+    color: white;
+    border: white;
+    text-align:center;
+    width: 100%;
+    font-size:30px;
+    text-decoration: none;
+    border-radius:10px;
+}
+
+a.section:hover {
+    background: rgba(255,255,255,.5);
+    color: white;
+    border: black;
+    text-align:center;
+    width: 100%;
+    font-size:30px;
+    text-decoration: none;
+}
+
+.right{
+    width:70%;
+}
+
+.content{
+    width: 80%;
+    display: flex;
+    padding: 0px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.block{
+    background-color: rgba(0,40,0,.8);
+    color: white;
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    border-collapse: collapse;
+}
+
+th{
+    background-color: white;
+    color: black;
+}
+
+tr{
+    border:solid;
+    border-width: .001px 0;
+}
+
+tr:first-child {
+    border-top: none;
+  }
+tr:last-child {
+    border-bottom: none;
+}
+
+#observablehq-viewof-search_match-351a6d6f{
+    margin-bottom: 5px;
+}

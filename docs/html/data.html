@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>SMUSL STATS</title>
+        <link rel="StyleSheet" href="../css/style_index.css" type="text/css">
+        <meta name="author" content="James Kim">
+        <link rel="shortcut icon" type="image/x-icon" href="../fig/favicon.ico">
+        <script
+            src="https://code.jquery.com/jquery-3.7.0.min.js"
+            integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g="
+            crossorigin="anonymous">
+        </script>
+        <script  src="../script/script_index.js"></script>
+    </head>
+
+    <body>
+        
+        <div class="header">
+            <div class="logo"><img class="logo" src="../fig/logo-01.png"></div>
+            <div class="top">
+                <h1 class="title">SMUSL STATS</h1>
+                <div class="topnav">
+                    <a href="../index.html">Home</a>
+                    <a class="active" href="../html/data.html">Data</a>
+                    <a href="../html/forum.html">Forum</a>
+                    <a href="../html/methodology.html">Methodology</a>
+                    <a href="../html/api.html">API</a>
+                    <a href="../html/contact.html">contact</a>
+                </div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="left">
+                <div class="block">
+                    <h1 align="center">Content</h1>
+                </div>
+
+            </div>
+            <div class="right">
+                <div class="block">
+                    <h1 align="center">Match</h1>
+                    <div id="observablehq-viewof-search_match-351a6d6f"></div>
+
+                    <div id="observablehq-table_match-351a6d6f"></div>
+                </div>  
+            </div>
+        </div>
+    </body>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+    <script type="module">
+        import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+        import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@70.js?v=4";
+        new Runtime().module(define, name => {
+        if (name === "viewof search_match") return new Inspector(document.querySelector("#observablehq-viewof-search_match-351a6d6f"));
+        if (name === "table_match") return new Inspector(document.querySelector("#observablehq-table_match-351a6d6f"));
+        });
+    </script>
+</html>

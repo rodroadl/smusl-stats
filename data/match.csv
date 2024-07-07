@@ -1,0 +1,211 @@
+Week,Date,Day of the Week,Time,Home,Away,Home Score,Away Score,First Referee,Second Referee,Third Referee,Note,Elo +/-,Home Elo,Away Elo,Win,Draw,Lose
+Week 1,2021-06-22,Tuesday,19:15:00,The Escape Room,Midcoast,0,5,Matthew Ferguson,Aruna Kenyi,,,-40.0,1500.0,1500.0,25,50,25
+Week 1,2021-06-22,Tuesday,21:00:00,One Love FC,The Real Portland Timbers,9,0,Aruna Kenyi,Ben (Ptya) Lomeri,,,50.0,1500.0,1500.0,25,50,25
+Week 1,2021-06-24,Thursday,19:15:00,Jibe/Lone Pine,U Gonna Learn Today,0,4,Aruna Kenyi,,,,-37.5,1500.0,1500.0,25,50,25
+Week 1,2021-06-24,Thursday,21:00:00,Yankee Ford Sporting Club,Duppy Conquerors,0,1,Haidar Al-Freihy,,,,-20.0,1500.0,1500.0,25,50,25
+Week 1,2021-06-25,Friday,19:15:00,Midcoast,JW Group,7,1,Salah Zayed,,,,37.63,1540.0,1500.0,31,49,20
+Week 1,2021-06-25,Friday,21:00:00,The Escape Room,The Real Portland Timbers,5,2,Ben (Pyta) Lomeri,,,,33.99,1460.0,1450.0,26,50,24
+Week 2,2021-06-29,Tuesday,19:15:00,U Gonna Learn Today,Yankee Ford Sporting Club,1,0,Salah Zayed,,,,16.72,1537.5,1480.0,34,49,17
+Week 2,2021-06-29,Tuesday,21:00:00,Midcoast,Jibe/Lone Pine,1,2,Aruna Kenyi,,,,-26.39,1577.63,1462.5,44,44,12
+Week 2,2021-07-01,Thursday,21:00:00,JW Group,The Escape Room,2,7,Aruna Kenyi,,,,-36.37,1462.37,1493.99,21,49,30
+Week 2,2021-07-01,Thursday,19:15:00,Duppy Conquerors,One Love FC,5,3,Salah Zayed,,,,32.58,1520.0,1550.0,21,50,29
+Week 3,2021-07-06,Tuesday,19:15:00,Midcoast,Duppy Conquerors,1,0,Salah Zayed,,,,20.08,1551.23,1552.58,25,50,25
+Week 3,2021-07-06,Tuesday,21:00:00,The Escape Room,U Gonna Learn Today,0,3,Aruna Kenyi,,,,-32.6,1530.36,1554.22,22,49,29
+Week 3,2021-07-08,Thursday,19:15:00,One Love FC,Jibe/Lone Pine,4,3,Salah Zayed,,,,18.36,1517.42,1488.89,29,50,21
+Week 3,2021-07-08,Thursday,21:00:00,The Real Portland Timbers,Yankee Ford Sporting Club,2,0,Aruna Kenyi,,,,34.06,1416.01,1463.28,19,49,32
+Week 4,2021-07-13,Tuesday,19:15:00,Jibe/Lone Pine,The Escape Room,5,1,Aruna Kenyi,,,,40.43,1470.53,1497.76,21,50,29
+Week 4,2021-07-13,Tuesday,21:00:00,JW Group,U Gonna Learn Today,0,13,Matthew Ferguson,,,,-34.05,1426.0,1586.82,8,41,51
+Week 4,2021-07-15,Thursday,21:00:00,The Real Portland Timbers,Duppy Conquerors,0,3,Matthew Ferguson,,,,-26.85,1450.06,1532.51,15,47,38
+Week 4,2021-07-15,Thursday,19:15:00,Midcoast,Yankee Ford Sporting Club,2,0,Aruna Kenyi,,,,18.37,1571.31,1429.22,48,43,9
+Week 5,2021-07-20,Tuesday,19:15:00,The Real Portland Timbers,One Love FC,0,3,Salah Zayed,,,,-24.04,1423.22,1535.78,12,45,43
+Week 5,2021-07-20,Tuesday,21:00:00,Midcoast,The Escape Room,6,1,Aruna Kenyi,,,,25.46,1589.68,1457.33,46,44,10
+Week 5,2021-07-22,Thursday,19:15:00,U Gonna Learn Today,Jibe/Lone Pine,5,1,Salah Zayed,,,,26.02,1620.87,1510.97,43,45,12
+Week 5,2021-07-22,Thursday,21:00:00,Duppy Conquerors,Yankee Ford Sporting Club,8,0,Aruna Kenyi,,,,28.35,1559.35,1410.85,49,42,9
+Week 6,2021-07-27,Tuesday,19:15:00,Jibe/Lone Pine,The Real Portland Timbers,6,2,Salah Zayed,,,,28.43,1484.95,1399.18,39,47,14
+Week 6,2021-07-27,Tuesday,21:00:00,One Love FC,U Gonna Learn Today,1,2,Aruna Kenyi,,,,-15.09,1559.82,1646.89,14,47,39
+Week 6,2021-07-29,Thursday,19:15:00,Duppy Conquerors,JW Group,3,0,Salah Zayed,,,,17.13,1587.7,1391.95,57,37,6
+Week 6,2021-07-29,Thursday,21:00:00,Yankee Ford Sporting Club,The Escape Room,0,2,Aruna Kenyi,,,,-25.77,1382.5,1431.87,18,49,33
+Week 7,2021-08-03,Tuesday,19:15:00,Yankee Ford Sporting Club,One Love FC,0,8,Salah Zayed,,,,-24.04,1356.74,1544.73,6,38,56
+Week 7,2021-08-03,Tuesday,21:00:00,Duppy Conquerors,The Escape Room,6,1,Aruna Kenyi,,,,24.0,1604.84,1457.64,49,42,9
+Week 7,2021-08-05,Thursday,19:15:00,The Real Portland Timbers,Midcoast,3,2,Aruna Kenyi,,,,32.13,1370.75,1615.14,4,31,65
+Week 7,2021-08-05,Thursday,21:00:00,Jibe/Lone Pine,JW Group,9,1,Matthew Ferguson,,,,29.5,1513.37,1374.82,48,42,10
+Week 8,2021-08-10,Tuesday,19:15:00,Yankee Ford Sporting Club,Jibe/Lone Pine,0,1,Salah Zayed,,,,-9.19,1332.69,1542.88,5,36,59
+Week 8,2021-08-10,Tuesday,21:00:00,One Love FC,Midcoast,3,1,Aruna Kenyi,,,,31.23,1568.77,1583.01,23,50,27
+Week 8,2021-08-11,Wednesday,19:15:00,The Escape Room,JW Group,3,1,Matthew Ferguson,,,,22.53,1433.64,1345.31,39,47,14
+Week 8,2021-08-11,Wednesday,21:00:00,Duppy Conquerors,Jibe/Lone Pine,2,0,Manny,,,,23.48,1628.83,1552.06,37,48,15
+Week 8,2021-08-12,Thursday,21:00:00,U Gonna Learn Today,The Real Portland Timbers,8,1,Aruna Kenyi,,,,16.53,1661.98,1402.88,67,30,3
+Week 8,2021-08-12,Thursday,19:15:00,JW Group,One Love FC,0,3,Salah Zayed,,,,-11.8,1322.78,1600.0,3,28,69
+Week 9,2021-08-17,Tuesday,19:15:00,One Love FC,Duppy Conquerors,0,0,Salah Zayed,,,,2.32,1611.8,1652.31,20,49,31
+Week 9,2021-08-17,Tuesday,21:00:00,Jibe/Lone Pine,The Escape Room,4,2,Aruna Kenyi,,,,23.84,1528.59,1456.17,36,48,16
+Week 9,2021-08-18,Wednesday,19:15:00,Midcoast,The Real Portland Timbers,6,0,Salah Zayed,,,,23.67,1551.78,1386.35,52,40,8
+Week 9,2021-08-18,Wednesday,21:00:00,Yankee Ford Sporting Club,U Gonna Learn Today,0,6,Aruna Kenyi,,,,-9.75,1323.5,1678.52,1,21,78
+Week 9,2021-08-19,Thursday,19:15:00,Yankee Ford Sporting Club,JW Group,0,3,Salah Zayed,,,,-35.28,1313.75,1310.98,25,50,25
+Week 9,2021-08-19,Thursday,21:00:00,The Escape Room,One Love FC,0,4,Aruna Kenyi,,,,-19.49,1432.33,1614.12,7,38,55
+Week 10,2021-08-24,Thursday,19:15:00,Duppy Conquerors,U Gonna Learn Today,3,8,Salah Zayed,,,,-35.61,1649.99,1688.26,20,49,31
+Week 10,2021-08-24,Thursday,21:00:00,JW Group,The Real Portland Timbers,3,4,Aruna Kenyi,Matthew Ferguson,,,-19.06,1346.26,1362.68,23,50,27
+Week 10,2021-08-25,Wednesday,19:15:00,The Escape Room,Duppy Conquerors,1,4,Aruna Kenyi,,,,-16.7,1412.84,1614.38,6,36,58
+Week 10,2021-08-26,Thursday,19:15:00,U Gonna Learn Today,Midcoast,2,0,Salah Zayed,,,,17.91,1723.88,1575.45,49,42,9
+Week 10,2021-08-26,Thursday,21:00:00,JW Group,Jibe/Lone Pine,1,2,Aruna Kenyi,,,,-8.59,1327.2,1552.42,5,33,62
+Week 11,2021-08-31,Tuesday,19:15:00,The Escape Room,One Love FC,1,1,Aruna Kenyi,,,,11.88,1396.14,1633.62,4,32,64
+Week 11,2021-08-31,Tuesday,21:00:00,The Real Portland Timbers,Jibe/Lone Pine,2,2,Matthew Ferguson,,,,9.49,1381.74,1561.01,7,39,54
+Week 11,2021-09-02,Thursday,19:15:00,Midcoast,U Gonna Learn Today,2,5,Salah Zayed,,,,-18.0,1557.54,1741.79,7,38,55
+Week 11,2021-09-02,Thursday,21:00:00,JW Group,Duppy Conquerors,2,6,Aruna Kenyi,,,,-10.65,1318.61,1631.08,2,24,74
+Week 12,2021-09-07,Tuesday,21:00:00,U Gonna Learn Today,The Escape Room,12,1,Aruna Kenyi,,,,12.83,1759.79,1408.01,78,21,1
+Week 12,2021-09-07,Tuesday,19:15:00,Duppy Conquerors,Midcoast,2,1,Salah Zayed,,,,14.28,1641.73,1539.53,41,46,13
+Week 13,2021-09-14,Tuesday,21:00:00,Midcoast,One Love FC,2,4,Aruna Kenyi,,,,-21.88,1525.25,1621.74,13,47,40
+Week 13,2021-09-14,Tuesday,19:15:00,The Real Portland Timbers,U Gonna Learn Today,0,12,Salah Zayed,,,,-11.52,1391.23,1772.62,1,18,81
+Week 13,2021-09-16,Thursday,19:15:00,JW Group,One Love FC,1,7,Salah Zayed,,,,-10.75,1307.96,1643.62,2,22,76
+Week 13,2021-09-16,Thursday,21:00:00,Jibe/Lone Pine,Duppy Conquerors,1,4,Aruna Kenyi,,,,-24.78,1551.52,1656.01,13,45,42
+Week 14,2021-09-21,Tuesday,19:15:00,One Love FC,Jibe/Lone Pine,6,3,Salah Zayed,Manny,,,22.69,1654.37,1526.74,46,43,11
+Week 14,2021-09-21,Tuesday,21:00:00,U Gonna Learn Today,JW Group,3,0,Salah Zayed,Matthew Ferguson,,Forfeit,4.0,1784.13,1297.21,89,11,0
+Week 14,2021-09-23,Thursday,19:15:00,Duppy Conquerors,The Real Portland Timbers,7,3,Salah Zayed,,,,11.26,1680.79,1379.71,72,26,2
+Week 14,2021-09-23,Thursday,21:00:00,JW Group,Midcoast,1,5,Aruna Kenyi,,,,-17.23,1293.21,1503.38,5,36,59
+Week 15,2021-09-28,Tuesday,19:15:00,The Real Portland Timbers,JW Group,2,6,Salah Zayed,,,,-47.25,1368.45,1275.98,40,46,14
+Week 15,2021-09-28,Tuesday,21:00:00,U Gonna Learn Today,One Love FC,2,5,Matthew Ferguson,Manny,,,-45.82,1788.14,1677.06,43,45,12
+Week 15,2021-09-30,Thursday,19:15:00,The Real Portland Timbers,The Escape Room,0,1,Aruna Kenyi,,,,-15.8,1321.2,1395.19,16,47,37
+Week 15,2021-09-30,Thursday,21:00:00,Jibe/Lone Pine,Midcoast,2,3,Matthew Ferguson,,,,-19.05,1504.05,1520.61,23,50,27
+Quarter-Finals,2021-10-05,Tuesday,19:15:00,One Love FC,The Escape Room,8,2,Salah Zayed,,,,15.13,1722.88,1410.99,74,24,2
+Quarter-Finals,2021-10-05,Tuesday,21:00:00,Midcoast,Jibe/Lone Pine,0,1,Manny,,,,-28.9,1539.65,1485.0,33,49,18
+Quarter-Finals,2021-10-07,Thursday,19:15:00,U Gonna Learn Today,JW Group,6,0,Salah Zayed,,,,8.74,1742.31,1323.23,84,15,1
+Quarter-Finals,2021-10-07,Thursday,21:00:00,Duppy Conquerors,The Real Portland Timbers,0,1,Aruna Kenyi,,,,-45.13,1692.06,1305.39,81,18,1
+Semi-Finals,2021-10-12,Tuesday,21:00:00,U Gonna Learn Today,Jibe/Lone Pine,4,2,Aruna Kenyi,,,,18.31,1751.05,1513.9,63,33,4
+Semi-Finals,2021-10-12,Tuesday,19:15:00,The Real Portland Timbers,One Love FC,0,2,Salah Zayed,,,,-8.73,1350.52,1738.02,1,17,82
+Final,2021-10-19,Tuesday,19:15:00,U Gonna Learn Today,One Love FC,1,2,Salah Zayed,Haider,Matthew Ferguson,,-42.6,1769.36,1746.75,28,50,22
+Week 1,2022-06-14,Tuesday,19:15:00,U Gonna Learn Today,Escape Room,7,1,Aruna Kenyi,,,,11.01,1726.76,1395.86,76,22,2
+Week 1,2022-06-14,Tuesday,21:00:00,Duppy Conquerors,Real FC United Thunder,2,1,Ben (Ptya) Lomeri,,,,12.01,1646.93,1500.0,49,42,9
+Week 1,2022-06-16,Thursday,19:15:00,One Love FC,Envy Construction,2,1,Aruna Kenyi,,,,6.23,1789.35,1495.6,71,27,2
+Week 1,2022-06-16,Thursday,21:00:00,Farmers FC,Portland Phoenix FC,7,1,Ben (Ptya) Lomeri,,,,42.5,1500.0,1500.0,25,50,25
+Week 2,2022-06-21,Tuesday,19:15:00,Real FC United Thunder,One Love FC,3,2,Salah Zayed,,,,34.18,1487.99,1795.57,2,25,73
+Week 2,2022-06-21,Tuesday,21:00:00,Escape Room,Portland Phoenix FC,1,1,Aruna Kenyi,,,,4.12,1384.85,1457.5,16,48,36
+Week 2,2022-06-23,Thursday,19:15:00,Envy Construction,Farmers FC,1,3,Salah Zayed,,,,-25.45,1489.37,1542.5,18,49,33
+Week 2,2022-06-23,Thursday,21:00:00,U Gonna Learn Today,Duppy Conquerors,4,2,Aruna Kenyi,,,,23.31,1737.77,1658.94,37,48,15
+Week 3,2022-06-28,Tuesday,19:15:00,One Love FC,U Gonna Learn Today,0,1,Aruna Kenyi,,,,-20.02,1761.39,1761.08,25,50,25
+Week 3,2022-06-28,Tuesday,21:00:00,Envy Construction,Real FC United Thunder,1,0,Ben (Ptya) Lomeri,,,,23.32,1463.92,1522.17,17,49,34
+Week 3,2022-06-30,Thursday,19:15:00,Farmers FC,Escape Room,2,3,Aruna Kenyi,,,,-29.48,1567.95,1388.97,54,39,7
+Week 3,2022-06-30,Thursday,21:00:00,Duppy Conquerors,Portland Phoenix FC,4,2,Ben (Ptya) Lomeri,,,,15.56,1635.64,1453.38,55,38,7
+Week 4,2022-07-05,Tuesday,19:15:00,Real FC United Thunder,Farmers FC,1,0,Aruna Kenyi,,,,22.27,1498.85,1538.47,20,49,31
+Week 4,2022-07-05,Tuesday,21:00:00,Escape Room,Duppy Conquerors,1,5,Ben (Ptya) Lomeri,,,,-15.57,1418.45,1651.2,4,33,63
+Week 4,2022-07-07,Thursday,21:00:00,U Gonna Learn Today,Envy Construction,4,0,Ben (Ptya) Lomeri,,,,11.67,1781.1,1487.24,71,27,2
+Week 4,2022-07-07,Thursday,19:15:00,Portland Phoenix FC,One Love FC,0,1,Aruna Kenyi,,,,-5.93,1437.81,1741.37,2,25,73
+Week 5,2022-07-12,Tuesday,19:15:00,Envy Construction,Portland Phoenix FC,2,2,Salah Zayed,,,,-2.5,1475.58,1431.88,32,49,19
+Week 5,2022-07-12,Tuesday,21:00:00,Real FC United Thunder,U Gonna Learn Today,0,0,Aruna Kenyi,,,,13.08,1521.12,1792.76,3,29,68
+Week 5,2022-07-14,Thursday,19:15:00,One Love FC,Escape Room,3,4,Salah Zayed,,,,-35.16,1747.31,1402.88,77,22,1
+Week 5,2022-07-14,Thursday,21:00:00,Duppy Conquerors,Farmers FC,2,2,Aruna Kenyi,,,,-8.16,1666.76,1516.2,50,41,9
+Week 6,2022-07-19,Tuesday,19:15:00,Duppy Conquerors,One Love FC,0,1,Salah Zayed,,,,-16.94,1658.6,1712.15,18,49,33
+Week 6,2022-07-19,Tuesday,21:00:00,Escape Room,Envy Construction,2,6,Eric,,,,-33.73,1438.04,1473.07,20,50,30
+Week 6,2022-07-21,Thursday,19:15:00,Portland Phoenix FC,Real FC United Thunder,2,2,Salah Zayed,,,,5.59,1434.38,1534.19,13,46,41
+Week 6,2022-07-21,Thursday,21:00:00,Farmers FC,U Gonna Learn Today,1,0,Eric,,,,32.52,1524.36,1779.69,3,31,66
+Week 7,2022-07-26,Tuesday,19:15:00,Real FC United Thunder,Escape Room,4,0,Salah Zayed,,,,24.63,1528.6,1404.31,45,44,11
+Week 7,2022-07-26,Tuesday,21:00:00,U Gonna Learn Today,Portland Phoenix FC,1,0,Matthew Ferguson,,,,5.83,1747.17,1439.97,73,25,2
+Week 7,2022-07-28,Thursday,19:15:00,Envy Construction,Duppy Conquerors,2,1,Salah Zayed,,,,27.4,1506.81,1641.66,10,43,47
+Week 7,2022-07-28,Thursday,21:00:00,One Love FC,Farmers FC,3,1,Eric,,,,16.24,1729.09,1556.88,53,40,7
+Week 8,2022-08-02,Tuesday,19:15:00,Real FC United Thunder,Duppy Conquerors,4,3,Salah Zayed,,,,23.48,1553.23,1614.26,17,49,34
+Week 8,2022-08-02,Tuesday,21:00:00,Escape Room,U Gonna Learn Today,0,6,Eric,,,,-8.88,1379.68,1753.0,1,19,80
+Week 8,2022-08-04,Thursday,21:00:00,Envy Construction,One Love FC,4,4,Ben (Ptya) Lomeri,,,,10.85,1534.2,1745.33,5,36,59
+Week 8,2022-08-04,Thursday,19:15:00,Portland Phoenix FC,Farmers FC,0,1,Salah Zayed,,,,-14.05,1434.14,1540.64,12,46,42
+Week 9,2022-08-09,Tuesday,19:15:00,One Love FC,Real FC United Thunder,2,3,Salah Zayed,,,,-28.51,1734.48,1576.71,51,41,8
+Week 9,2022-08-09,Tuesday,21:00:00,Farmers FC,Envy Construction,2,4,Eric,,,,-30.83,1554.7,1545.05,26,50,24
+Week 9,2022-08-11,Thursday,19:15:00,Duppy Conquerors,U Gonna Learn Today,1,1,Salah Zayed,,,,9.12,1590.79,1761.87,7,40,53
+Week 9,2022-08-11,Thursday,21:00:00,Portland Phoenix FC,Escape Room,3,4,Ben (Ptya) Lomeri,,,,-22.82,1420.09,1370.8,33,49,18
+Week 10,2022-08-16,Tuesday,19:15:00,Escape Room,Farmers FC,2,3,Salah Zayed,,,,-12.84,1393.62,1523.86,10,44,46
+Week 10,2022-08-16,Tuesday,21:00:00,U Gonna Learn Today,One Love FC,4,2,Eric,,,,25.99,1752.75,1705.98,32,49,19
+Week 10,2022-08-18,Thursday,19:15:00,Portland Phoenix FC,Duppy Conquerors,3,2,Salah Zayed,,,,30.5,1397.27,1599.91,6,36,58
+Week 10,2022-08-18,Thursday,21:00:00,Real FC United Thunder,Envy Construction,4,0,Ben (Ptya) Lomeri,,,,34.34,1605.21,1575.88,29,50,21
+Week 11,2022-08-23,Tuesday,19:15:00,Envy Construction,U Gonna Learn Today,1,3,Salah Zayed,,,,-12.2,1541.54,1778.74,4,33,63
+Week 11,2022-08-23,Tuesday,21:00:00,Farmers FC,Real FC United Thunder,1,4,Eric,,,,-24.93,1536.7,1639.55,13,46,41
+Week 11,2022-08-25,Thursday,19:15:00,Duppy Conquerors,Escape Room,1,1,Salah Zayed,,,,-9.9,1569.41,1380.79,56,38,6
+Week 11,2022-08-25,Thursday,21:00:00,One Love FC,Portland Phoenix FC,3,3,Eric,,,,-12.41,1679.99,1427.77,66,30,4
+Week 12,2022-08-30,Tuesday,21:00:00,Escape Room,One Love FC,2,2,Eric,,,,13.25,1390.69,1667.58,3,28,69
+Week 12,2022-08-30,Tuesday,19:15:00,Portland Phoenix FC,Envy Construction,3,3,Salah Zayed,,,,5.02,1440.18,1529.34,14,47,39
+Week 12,2022-09-01,Thursday,21:00:00,U Gonna Learn Today,Real FC United Thunder,4,0,Ben (Ptya) Lomeri,,,,24.42,1790.94,1664.49,45,44,11
+Week 12,2022-09-01,Thursday,19:15:00,Farmers FC,Duppy Conquerors,2,4,Salah Zayed,,,,-25.9,1511.77,1559.51,19,49,32
+Week 13,2022-09-06,Tuesday,19:15:00,U Gonna Learn Today,Farmers FC,4,2,Eric,,,,7.83,1815.36,1485.86,76,22,2
+Week 13,2022-09-06,Tuesday,21:00:00,Real FC United Thunder,Portland Phoenix FC,1,1,Ben (Ptya) Lomeri,,,,-10.17,1640.06,1445.21,57,37,6
+Week 13,2022-09-08,Thursday,19:15:00,Envy Construction,Escape Room,3,2,Eric,,,,13.33,1524.32,1403.94,44,45,11
+Week 13,2022-09-08,Thursday,21:00:00,One Love FC,Duppy Conquerors,3,4,,,,,-23.92,1654.33,1585.41,36,48,16
+Week 14,2022-09-13,Tuesday,19:15:00,Portland Phoenix FC,U Gonna Learn Today,2,5,Eric,,,,-7.52,1455.38,1823.19,1,19,80
+Week 14,2022-09-13,Tuesday,21:00:00,Duppy Conquerors,Envy Construction,5,2,Salah Zayed,,,,27.88,1609.33,1537.65,36,48,16
+Week 14,2022-09-15,Thursday,19:15:00,Escape Room,Real FC United Thunder,2,3,Salah Zayed,,,,-8.06,1390.6,1629.89,4,32,64
+Week 14,2022-09-15,Thursday,21:00:00,Farmers FC,One Love FC,3,4,Ben (Ptya) Lomeri,,,,-11.75,1478.04,1630.42,9,41,50
+Quarter-Finals,2022-09-27,Tuesday,19:15:00,Duppy Conquerors,Farmers FC,1,2,Salah Zayed,,,,-36.39,1637.21,1466.29,53,40,7
+Quarter-Finals,2022-09-27,Tuesday,21:00:00,Real FC United Thunder,Escape Room,1,3,Eric,,,,-60.98,1637.95,1382.55,66,31,3
+Quarter-Finals,2022-09-29,Thursday,19:15:00,One Love FC,Envy Construction,0,1,Salah Zayed,,,,-34.09,1642.17,1509.77,46,44,10
+Quarter-Finals,2022-09-29,Thursday,21:00:00,U Gonna Learn Today,Portland Phoenix FC,5,2,Ben (Ptya) Lomeri,,,,8.7,1830.71,1447.86,81,18,1
+Semi-Finals,2022-10-04,Tuesday,21:00:00,U Gonna Learn Today,Envy Construction,4,1,Eric,,,,16.2,1839.41,1543.86,72,26,2
+Semi-Finals,2022-10-04,Tuesday,19:15:00,Escape Room,Farmers FC,0,1,Salah Zayed,,,,-24.94,1443.53,1502.68,17,49,34
+Final,2022-10-11,Thursday,19:15:00,U Gonna Learn Today,Farmers FC,5,4,Salah Zayed,,,,10.52,1855.61,1527.62,75,23,2
+Week 4,2023-06-08,Thursday,19:15:00,The Escapees,Heartbreakers FC,2,0,Salah Zayed,Ben (Ptya) Lomeri,,,36.9,1418.59,1500.0,15,47,38
+Week 4,2023-06-08,Thursday,21:00:00,Thunder United FC,Envy Construction,9,3,Ben (Ptya) Lomeri,Salah Zayed,,,36.51,1576.97,1527.66,33,49,18
+Week 1,2023-06-13,Tuesday,19:15:00,One Love FC,Thunder United FC,2,0,Salah Zayed,Dean Zoulamis,,,30.47,1608.08,1613.47,24,50,26
+Week 1,2023-06-13,Tuesday,21:00:00,Farmers FC,The Escapees,2,0,Dean Zoulamis,Salah Zayed,,,24.73,1517.1,1455.49,35,48,17
+Week 1,2023-06-15,Thursday,19:15:00,Envy Construction,U Gonna Learn Today,3,2,Salah Zayed,Ben (Ptya) Lomeri,,,35.86,1491.15,1866.13,1,19,80
+Week 1,2023-06-15,Thursday,21:00:00,Heartbreakers FC,Duppy Conquerors,0,3,Ben (Ptya) Lomeri,Salah Zayed,,,-21.81,1463.1,1600.81,10,43,47
+Week 2,2023-06-20,Tuesday,19:15:00,Duppy Conquerors,Farmers FC,0,1,Dean Zoulamis,Eric,,,-24.57,1622.62,1541.84,38,47,15
+Week 2,2023-06-20,Tuesday,21:00:00,Thunder United FC,U Gonna Learn Today,0,0,Eric,Dean Zoulamis,,,12.23,1583.01,1830.27,4,31,65
+Week 2,2023-06-22,Thursday,19:15:00,The Escapees,One Love FC,2,1,Salah Zayed,Ben (Ptya) Lomeri,,,30.71,1430.75,1638.54,5,36,59
+Week 2,2023-06-22,Thursday,21:00:00,Heartbreakers FC,Envy Construction,1,3,Ben (Ptya) Lomeri,Salah Zayed,,,-22.74,1441.29,1527.01,14,47,39
+Week 3,2023-06-27,Tuesday,19:15:00,U Gonna Learn Today,The Escapees,2,1,Salah Zayed,Ben (Ptya) Lomeri,,,4.55,1818.03,1461.47,79,20,1
+Week 3,2023-06-27,Tuesday,21:00:00,Envy Construction,Duppy Conquerors,2,5,Ben (Ptya) Lomeri,Salah Zayed,,,-30.17,1549.76,1598.05,19,49,32
+Week 3,2023-06-29,Thursday,19:15:00,One Love FC,Farmers FC,2,0,Salah Zayed,Ben (Ptya) Lomeri,,,26.44,1607.83,1566.41,31,50,19
+Week 3,2023-06-29,Thursday,21:00:00,Heartbreakers FC,Thunder United FC,1,4,Ben (Ptya) Lomeri,Salah Zayed,,,-18.59,1418.54,1595.24,7,39,54
+Week 4,2023-07-06,Thursday,21:00:00,Farmers FC,U Gonna Learn Today,0,5,Ben (Ptya) Lomeri,Salah Zayed,,,-13.14,1539.97,1822.59,3,27,70
+Week 4,2023-07-06,Thursday,19:15:00,Duppy Conquerors,One Love FC,1,2,Salah Zayed,Ben (Ptya) Lomeri,,,-19.65,1628.22,1634.27,24,50,26
+Week 5,2023-07-11,Tuesday,19:15:00,Envy Construction,The Escapees,3,2,Salah Zayed,Dean Zoulamis,,,16.43,1519.59,1456.92,35,48,17
+Week 5,2023-07-11,Tuesday,21:00:00,Heartbreakers FC,Farmers FC,1,3,Dean Zoulamis,Salah Zayed,,,-19.51,1399.95,1526.83,11,43,46
+Week 5,2023-07-13,Thursday,19:15:00,Duppy Conquerors,Thunder United FC,0,2,Salah Zayed,Ben (Ptya) Lomeri,,,-29.55,1608.57,1613.83,24,50,26
+Week 5,2023-07-13,Thursday,21:00:00,U Gonna Learn Today,One Love FC,5,0,Ben (Ptya) Lomeri,Salah Zayed,,,20.79,1835.73,1653.92,55,38,7
+Week 6,2023-07-18,Tuesday,19:15:00,One Love FC,Heartbreakers FC,4,3,Salah Zayed,Dean Zoulamis,,,7.57,1633.13,1380.44,66,30,4
+Week 6,2023-07-18,Tuesday,21:00:00,Farmers FC,Envy Construction,2,1,Dean Zoulamis,Salah Zayed,,,19.41,1546.33,1536.02,27,49,24
+Week 6,2023-07-20,Thursday,19:15:00,The Escapees,Thunder United FC,0,5,Salah Zayed,Ben (Ptya) Lomeri,,,-18.98,1440.49,1643.38,6,36,58
+Week 6,2023-07-20,Thursday,21:00:00,U Gonna Learn Today,Duppy Conquerors,3,0,Ben (Ptya) Lomeri,Salah Zayed,,,11.78,1856.52,1579.02,69,28,3
+Week 7,2023-07-25,Tuesday,19:15:00,Heartbreakers FC,U Gonna Learn Today,1,2,Salah Zayed,Dean Zoulamis,,,-2.18,1372.87,1868.3,0,11,89
+Week 7,2023-07-25,Tuesday,21:00:00,Thunder United FC,Farmers FC,0,3,Dean Zoulamis,Salah Zayed,,,-44.49,1662.36,1565.74,40,47,13
+Week 7,2023-07-27,Thursday,19:15:00,Envy Construction,One Love FC,1,5,Salah Zayed,Ben (Ptya) Lomeri,,,-24.65,1516.61,1640.7,11,44,45
+Week 7,2023-07-27,Thursday,21:00:00,Duppy Conquerors,The Escapees,2,1,Ben (Ptya) Lomeri,Salah Zayed,,,12.07,1567.24,1421.51,49,42,9
+Week 8,2023-08-01,Tuesday,19:15:00,The Escapees,Farmers FC,0,3,Salah Zayed,Eric,,,-16.76,1409.44,1610.23,6,36,58
+Week 8,2023-08-01,Tuesday,21:00:00,Duppy Conquerors,Heartbreakers FC,3,2,Eric,Salah Zayed,,,9.25,1579.31,1370.69,59,36,5
+Week 8,2023-08-03,Thursday,21:00:00,U Gonna Learn Today,Envy Construction,3,2,Ben (Ptya) Lomeri,Salah Zayed,,,4.07,1870.48,1491.97,81,18,1
+Week 8,2023-08-03,Thursday,19:15:00,Thunder United FC,One Love FC,2,1,Salah Zayed,Ben (Ptya) Lomeri,,,22.72,1617.87,1665.35,19,49,32
+Week 9,2023-08-08,Tuesday,19:15:00,Envy Construction,Heartbreakers FC,2,2,Salah Zayed,Haidar Al-Freihy,,,-6.97,1487.9,1361.44,45,44,11
+Week 9,2023-08-08,Tuesday,21:00:00,One Love FC,The Escapees,6,0,Haidar Al-Freihy,Salah Zayed,,,16.3,1642.63,1392.68,65,31,4
+Week 9,2023-08-10,Thursday,19:15:00,Farmers FC,Duppy Conquerors,2,2,Salah Zayed,Ben (Ptya) Lomeri,,,-2.2,1626.99,1588.56,31,49,20
+Week 9,2023-08-10,Thursday,21:00:00,U Gonna Learn Today,Thunder United FC,4,0,Ben (Ptya) Lomeri,Salah Zayed,,,15.48,1874.55,1640.58,63,33,4
+Week 10,2023-08-15,Tuesday,19:15:00,Thunder United FC,Heartbreakers FC,4,0,Salah Zayed,Dean Zoulamis,,,13.93,1625.1,1368.41,66,31,3
+Week 10,2023-08-15,Tuesday,21:00:00,Farmers FC,One Love FC,4,0,Dean Zoulamis,Salah Zayed,,,41.17,1624.79,1658.93,20,50,30
+Week 10,2023-08-17,Thursday,19:15:00,Duppy Conquerors,Envy Construction,6,0,Salah Zayed,Dean Zoulamis,,,29.49,1590.76,1480.92,43,45,12
+Week 10,2023-08-17,Thursday,21:00:00,The Escapees,U Gonna Learn Today,0,3,Dean Zoulamis,Salah Zayed,,,-3.46,1376.38,1890.03,0,10,90
+Week 11,2023-08-22,Tuesday,19:15:00,U Gonna Learn Today,Farmers FC,4,1,Salah Zayed,Dean Zoulamis,,,14.88,1893.49,1665.96,62,33,5
+Week 11,2023-08-22,Tuesday,21:00:00,One Love FC,Duppy Conquerors,2,4,Dean Zoulamis,Salah Zayed,,,-29.78,1617.76,1620.26,25,50,25
+Week 11,2023-08-24,Thursday,19:15:00,Envy Construction,Thunder United FC,1,2,Salah Zayed,Patrik Udeh,,,-10.14,1451.43,1639.04,6,38,56
+Week 11,2023-08-24,Thursday,21:00:00,Heartbreakers FC,The Escapees,3,4,Patrik Udeh,Salah Zayed,,,-18.94,1354.48,1372.92,22,50,28
+Week 12,2023-08-29,Tuesday,21:00:00,One Love FC,U Gonna Learn Today,1,2,Dean Zoulamis,Salah Zayed,,,-5.46,1587.97,1908.37,2,23,75
+Week 12,2023-08-29,Tuesday,19:15:00,Farmers FC,Heartbreakers FC,2,0,Salah Zayed,Dean Zoulamis,,,8.39,1651.08,1335.54,74,24,2
+Week 12,2023-08-31,Thursday,21:00:00,The Escapees,Envy Construction,2,3,Ben (Ptya) Lomeri,Salah Zayed,,,-17.17,1391.86,1441.29,18,49,33
+Week 12,2023-08-31,Thursday,19:15:00,Thunder United FC,Duppy Conquerors,1,1,Salah Zayed,Ben (Ptya) Lomeri,,,0.05,1649.18,1650.04,25,50,25
+Week 13,2023-09-05,Tuesday,21:00:00,Heartbreakers FC,One Love FC,0,2,,,,,-11.22,1327.15,1582.51,3,31,66
+Week 13,2023-09-07,Thursday,19:15:00,Envy Construction,Farmers FC,1,3,Ben (Ptya) Lomeri,Patrik Udeh,,,-14.35,1458.46,1659.47,6,36,58
+Week 13,2023-09-07,Thursday,21:00:00,Thunder United FC,The Escapees,2,0,Patrik Udeh,Ben (Ptya) Lomeri,,,10.24,1649.23,1374.69,69,28,3
+Week 14,2023-09-12,Tuesday,19:15:00,The Escapees,Duppy Conquerors,1,4,Eric,Patrik Udeh,,,-11.34,1364.44,1649.99,3,27,70
+Week 14,2023-09-12,Tuesday,21:00:00,One Love FC,Envy Construction,2,3,Patrik Udeh,Eric,,,-28.12,1593.73,1444.11,49,42,9
+Week 14,2023-09-14,Thursday,19:15:00,U Gonna Learn Today,Heartbreakers FC,2,0,,,,,1.86,1913.83,1315.93,94,6,0
+Week 16,2023-09-19,Tuesday,19:15:00,Duppy Conquerors,U Gonna Learn Today,2,3,Salah Zayed,Eric,,,-7.51,1661.33,1915.69,4,30,66
+Week 16,2023-09-19,Tuesday,21:00:00,Farmers FC,Thunder United FC,2,1,Eric,Salah Zayed,,,19.17,1673.83,1659.47,27,50,23
+Quarter-Finals,2023-09-26,Tuesday,19:15:00,The Escapees,Farmers FC,0,2,Salah Zayed,Dean Zoulamis,,,-9.29,1353.11,1693.0,2,21,77
+Quarter-Finals,2023-09-26,Tuesday,21:00:00,Envy Construction,Thunder United FC,0,5,Dean Zoulamis,Salah Zayed,,,-27.54,1472.23,1640.3,8,39,53
+Quarter-Finals,2023-09-28,Thursday,19:15:00,One Love FC,Duppy Conquerors,0,2,Salah Zayed,Ben (Ptya) Lomeri,,,-28.18,1565.61,1653.82,14,47,39
+Quarter-Finals,2023-09-28,Thursday,21:00:00,Heartbreakers FC,U Gonna Learn Today,0,2,,,,Forfeit,-2.18,1314.07,1923.2,0,6,94
+Semi-Finals,2023-10-03,Tuesday,21:00:00,Thunder United FC,Farmers FC,3,1,Dean Zoulamis,Salah Zayed,,,49.45,1667.84,1702.29,20,50,30
+Semi-Finals,2023-10-03,Tuesday,19:15:00,Duppy Conquerors,U Gonna Learn Today,0,1,Salah Zayed,Dean Zoulamis,,,-11.86,1682.0,1925.39,4,32,64
+Final,2023-10-10,Thursday,19:15:00,Thunder United FC,U Gonna Learn Today,0,2,Salah Zayed,Ben (Ptya) Lomeri,Dean Zoulamis,,-26.39,1717.28,1937.25,5,34,61
+Week 3,2024-06-11,Tuesday,19:15:00,The Escape Room,APEX Charters Lone Pine Brewing,1,1,Salah Zayed,Dean Zoulamis,,,5.65,1343.82,1444.69,13,46,41
+Week 3,2024-06-11,Tuesday,21:10:00,Thunder FC,Carlos Auto Repair,3,3,Dean Zoulamis,Salah Zayed,,,-10.0,1690.9,1500.0,56,38,6
+Week 1,2024-06-18,Tuesday,19:15:00,One Love FC,APEX Charters Lone Pine Brewing,2,1,Dean Zoulamis,Patrik Udeh,,,14.48,1537.43,1439.04,41,46,13
+Week 1,2024-06-18,Tuesday,21:00:00,The Escape Room,Old Port FC,4,0,Patrik Udeh,Dean Zoulamis,,,52.8,1349.47,1500.0,9,41,50
+Week 1,2024-06-20,Thursday,19:15:00,Baxter Pines FC,Carlos Auto Repair,1,3,Patrik Udeh,Caleb Lamb,,,-29.14,1500.0,1510.0,24,50,26
+Week 1,2024-06-20,Thursday,21:00:00,Farmers FC,Thunder FC,2,3,Caleb Lamb,Patrik Udeh,,,-18.39,1652.84,1680.89,21,50,29
+Week 2,2024-06-25,Tuesday,19:15:00,APEX Charters Lone Pine Brewing,Old Port FC,2,1,Dean Zoulamis,Patrik Udeh,,,21.3,1424.56,1447.2,22,50,28
+Week 2,2024-06-25,Tuesday,21:00:00,Carlos Auto Repair,Farmers FC,2,2,Patrik Udeh,Dean Zoulamis,,,5.35,1539.14,1634.45,13,47,40
+Week 2,2024-06-27,Thursday,19:35:00,One Love FC,Baxter Pines FC,2,1,Caleb Lamb,Eric,,,15.42,1551.91,1470.86,38,47,15
+Week 2,2024-06-27,Thursday,21:20:00,Thunder FC,The Escape Room,4,1,Eric,Caleb Lamb,,,10.72,1699.28,1402.27,72,26,2
+Week 3,2024-07-02,Tuesday,19:25:00,Baxter Pines FC,Old Port FC,0,4,Dean Zoulamis,Patrik Udeh,,,-40.68,1455.45,1425.9,29,50,21
+Week 3,2024-07-02,Tuesday,21:10:00,Farmers FC,One Love FC,1,0,Patrik Udeh,Dean Zoulamis,,,16.48,1629.1,1567.33,35,48,17
