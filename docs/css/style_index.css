@@ -117,6 +117,25 @@ button.team:hover {
     font-size:15px;
 }
 
+button.team-search{
+    background: rgba(0,0,0,.7);
+    color: white;
+    border: white;
+    text-align:left;
+    width: 100%;
+    font-size:15px;
+    border-radius:5px;
+}
+
+button.team-search:hover {
+    background: rgba(255,255,255,.5);
+    color: white;
+    border: black;
+    text-align:left;
+    width: 100%;
+    font-size:15px;
+}
+
 a.to-the-top{
     cursor: pointer;
 }
@@ -187,7 +206,7 @@ tr:last-child {
     border-bottom: none;
 }
 
-div.search{
+input{
+    background-color:rgba(0,0,0,.7);
     margin-bottom: 5px;
-    color: black;
 }

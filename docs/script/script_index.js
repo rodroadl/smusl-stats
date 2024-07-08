@@ -6,8 +6,9 @@ $(document).ready(function(){
         var scrollToY = 2200 - parseInt(document.getElementById(team).innerText);
         window.scrollTo(0,scrollToY);
     });
-    
+
     $(".to-the-top").on("click", function(e) {
         window.scrollTo(0,0);
     });
+
 });

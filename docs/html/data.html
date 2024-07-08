@@ -12,6 +12,7 @@
             crossorigin="anonymous">
         </script>
         <script  src="../script/script_index.js"></script>
+        
     </head>
 
     <body>
@@ -36,82 +37,57 @@
                 <div class="block">
                     <h1 align="center">Filter</h1>
                     <p align="center">Click on the team to filter the table</p>
-
-                    <table align="center">
-                        <tr>
-                            <th>Team</th>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="u-gonna-learn-today">U Gonna Learn Today</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="thunder-fc">Thunder FC</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="duppy-conquerors">Duppy Conquerors</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="farmers-fc">Farmers FC</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="one-love-fc">One Love FC</button></td>
-                        </tr>
-                        <tr >
-                            <td><button class="team" value="carlos-auto-repair">Carlos Auto Repair</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="midcoast">Midcoast</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="old-port-fc">Old Port FC</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="lone-pine">Lone Pine</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="portland-phoenix-fc">Portland Phoenix FC</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="baxter-pines-fc">Baxter Pines FC</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="the-escape-room">The Escape Room</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="the-real-portland-timbers">The Real Portland Timbers</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="jw-group">JW Group</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="heartbreakers-fc">HeartBreakers FC</button></td>
-                        </tr>
-                        <tr>
-                            <td><button class="team" value="yankee-ford-sporting-club">Yankee Ford Sporting Club</button></td>
-                        </tr>
-
-                    </table>
+                    <div id="observablehq-button_all-37eb239e"></div>
+                    <div id="observablehq-button_baxter-37eb239e"></div>
+                    <div id="observablehq-button_carlos-37eb239e"></div>
+                    <div id="observablehq-button_duppy-37eb239e"></div>
+                    <div id="observablehq-button_farmers-37eb239e"></div>
+                    <div id="observablehq-button_heartbreakers-37eb239e"></div>
+                    <div id="observablehq-button_jwgroup-37eb239e"></div>
+                    <div id="observablehq-button_midcoast-37eb239e"></div>
+                    <div id="observablehq-button_onelove-37eb239e"></div>
+                    <div id="observablehq-button_phoenix-37eb239e"></div>
+                    <div id="observablehq-button_escape-37eb239e"></div>
+                    <div id="observablehq-button_timbers-37eb239e"></div>
+                    <div id="observablehq-button_thunder-37eb239e"></div>
+                    <div id="observablehq-button_uglt-37eb239e"></div>
+                    <div id="observablehq-button_yankee-37eb239e"></div>
+                    <div id="observablehq-viewof-search_match-37eb239e"></div>
+                    <div id="observablehq-table_match-37eb239e"></div>
                 </div>
 
             </div>
             <div class="right">
                 <div class="block">
                     <h1 align="center">Match</h1>
-                    <div id="observablehq-viewof-search_match-c465a95e" class="search"></div>
-                    <div id="observablehq-table_match-c465a95e"></div>
+                    <div id="observablehq-viewof-search_match-13063d91"></div>
+                    <div id="observablehq-table_match-13063d91"></div>
                 </div>  
             </div>
         </div>
     </body>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
-    <script type="module">
-        import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-        import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@75.js?v=4";
-        new Runtime().module(define, name => {
-            if (name === "viewof search_match") return new Inspector(document.querySelector("#observablehq-viewof-search_match-c465a95e"));
-            if (name === "table_match") return new Inspector(document.querySelector("#observablehq-table_match-c465a95e"));
-            if (name === "table_biggest_upset") return new Inspector(document.querySelector("#observablehq-table_biggest_upset-c465a95e"));
-            if (name === "table_most_unexpected") return new Inspector(document.querySelector("#observablehq-table_most_unexpected-c465a95e"));
-        });
-    </script>
+                    <script type="module">
+                    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+                    import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@202.js?v=4";
+                    new Runtime().module(define, name => {
+                      if (name === "button_all") return new Inspector(document.querySelector("#observablehq-button_all-37eb239e"));
+                      if (name === "button_baxter") return new Inspector(document.querySelector("#observablehq-button_baxter-37eb239e"));
+                      if (name === "button_carlos") return new Inspector(document.querySelector("#observablehq-button_carlos-37eb239e"));
+                      if (name === "button_duppy") return new Inspector(document.querySelector("#observablehq-button_duppy-37eb239e"));
+                      if (name === "button_farmers") return new Inspector(document.querySelector("#observablehq-button_farmers-37eb239e"));
+                      if (name === "button_heartbreakers") return new Inspector(document.querySelector("#observablehq-button_heartbreakers-37eb239e"));
+                      if (name === "button_jwgroup") return new Inspector(document.querySelector("#observablehq-button_jwgroup-37eb239e"));
+                      if (name === "button_midcoast") return new Inspector(document.querySelector("#observablehq-button_midcoast-37eb239e"));
+                      if (name === "button_onelove") return new Inspector(document.querySelector("#observablehq-button_onelove-37eb239e"));
+                      if (name === "button_phoenix") return new Inspector(document.querySelector("#observablehq-button_phoenix-37eb239e"));
+                      if (name === "button_escape") return new Inspector(document.querySelector("#observablehq-button_escape-37eb239e"));
+                      if (name === "button_timbers") return new Inspector(document.querySelector("#observablehq-button_timbers-37eb239e"));
+                      if (name === "button_thunder") return new Inspector(document.querySelector("#observablehq-button_thunder-37eb239e"));
+                      if (name === "button_uglt") return new Inspector(document.querySelector("#observablehq-button_uglt-37eb239e"));
+                      if (name === "button_yankee") return new Inspector(document.querySelector("#observablehq-button_yankee-37eb239e"));
+                      if (name === "viewof search_match") return new Inspector(document.querySelector("#observablehq-viewof-search_match-37eb239e"));
+                      if (name === "table_match") return new Inspector(document.querySelector("#observablehq-table_match-37eb239e"));
+                    });
+                    </script>
 </html>

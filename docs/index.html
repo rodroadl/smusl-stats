@@ -22,7 +22,7 @@
                 <h1 class="title">SMUSL STATS</h1>
                 <div class="topnav">
                     <a class="active" href="index.html">Home</a>
-                    <a href="html/about">About</a>
+                    <a href="html/about.html">About</a>
                     <a href="html/data.html">Data</a>
                     <a href="html/forum.html">Forum</a>
                     <a href="html/methodology.html">Methodology</a>
@@ -33,7 +33,7 @@
         </div>
         <div class="content">
             <div class="left">
-                <div class="block">
+                <!-- <div class="block">
                     <h1 align="center">Content</h1>
                     <table class="index">
                         <tr><td ><a class="section to-the-top">To the Top</a></td></tr>
@@ -41,7 +41,7 @@
                         <tr><td><a class="section" href="#biggest-upset">The Biggest Upset</a></td></tr>
                         <tr><td><a class="section" href="#most-unexpected">The Most Unexpected Outcome</a></td></tr>
                     </table>
-                </div>
+                </div> -->
 
                 <div class="block">
                     <h2 align="center">Rank</h2>
@@ -146,25 +146,25 @@
 
                 <div id="biggest-upset" class="block">
                     <h2 align="center">The Biggest Upset</h2>
-                    <div id="observablehq-table_biggest_upset-b36b5188"></div>
+                    <div id="observablehq-table_biggest_upset-37eb239e"></div>
 
                 </div>
                 <div id="most-unexpected" class="block">
                     <h2 align="center">The Most Unexpected Outcome</h2>
-                    <div id="observablehq-table_most_unexpected-b36b5188"></div>
+                    <div id="observablehq-table_most_unexpected-37eb239e"></div>
                 </div>
             </div>
         </div>
     </body>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
-<script type="module">
-import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@75.js?v=4";
-new Runtime().module(define, name => {
-  if (name === "table_biggest_upset") return new Inspector(document.querySelector("#observablehq-table_biggest_upset-b36b5188"));
-  if (name === "table_most_unexpected") return new Inspector(document.querySelector("#observablehq-table_most_unexpected-b36b5188"));
-});
-</script>
+    <script type="module">
+    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+    import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@202.js?v=4";
+    new Runtime().module(define, name => {
+      if (name === "table_biggest_upset") return new Inspector(document.querySelector("#observablehq-table_biggest_upset-37eb239e"));
+      if (name === "table_most_unexpected") return new Inspector(document.querySelector("#observablehq-table_most_unexpected-37eb239e"));
+    });
+    </script>
 
 </html>
