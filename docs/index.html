@@ -17,7 +17,7 @@
     <body>
         
         <div class="header">
-            <div class="logo"><img class="logo" src="fig/logo-01.png"></div>
+            <div class="logo"><img alt="logo" class="logo" src="fig/logo-01.png"></div>
             <div class="top">
                 <h1 class="title">SMUSL STATS</h1>
                 <div class="topnav">
@@ -141,17 +141,17 @@
                 <div class="block" id="div-elo-rating">
                     <h1 align="center">Elo Rating</h1>
                     <p align="center">The Elo rating is an estimation of its relative strength among other teams based on past results allowing predictions for the future.</p>
-                    <img id="elo-rating" style="max-width: 100%" src="fig/elo-ratings-bar-chart-all.png">
+                    <img alt="elo-rating" id="elo-rating" style="max-width: 100%" src="fig/elo-ratings-bar-chart-all.png">
                 </div>  
 
                 <div id="biggest-upset" class="block">
                     <h2 align="center">The Biggest Upset</h2>
-                    <div id="observablehq-table_biggest_upset-37eb239e"></div>
+                    <div id="observablehq-table_biggest_upset-2ed5d46f"></div>
 
                 </div>
                 <div id="most-unexpected" class="block">
                     <h2 align="center">The Most Unexpected Outcome</h2>
-                    <div id="observablehq-table_most_unexpected-37eb239e"></div>
+                    <div id="observablehq-table_most_unexpected-2ed5d46f"></div>
                 </div>
             </div>
         </div>
@@ -160,10 +160,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
     <script type="module">
     import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-    import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@202.js?v=4";
+    import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@253.js?v=4";
     new Runtime().module(define, name => {
-      if (name === "table_biggest_upset") return new Inspector(document.querySelector("#observablehq-table_biggest_upset-37eb239e"));
-      if (name === "table_most_unexpected") return new Inspector(document.querySelector("#observablehq-table_most_unexpected-37eb239e"));
+      if (name === "table_biggest_upset") return new Inspector(document.querySelector("#observablehq-table_biggest_upset-2ed5d46f"));
+      if (name === "table_most_unexpected") return new Inspector(document.querySelector("#observablehq-table_most_unexpected-2ed5d46f"));
     });
     </script>
 
