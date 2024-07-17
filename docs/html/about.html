@@ -40,7 +40,78 @@
             </div>
             <div class="right">
                 <div class="block">
-                    <h1 align="center">Work In Progress</h1>
+                    <h1 align="center"><a href="https://www.smusl.com"> Southern Maine United Soccer League, SMUSL</a></h1>
+                    <p>The Southern Maine United Soccer League plays from June to October at field locations in the greater Portland area. 
+                        The league is a Men's league (although women are invited to play) and will offer both league and playoff games.</p>
+
+                    <hr>
+
+                    <h1 align="center">The case for the Elo ratings</h1>
+                    <p>TLDR: Common metrics to measure team strengths such as titles or points are insufficient 
+                        and sometimes misleading as they do not sufficiently account for the random nature of football nor opposition strength.
+                        The Elo ratings on this website provide a strength estimation based on results 
+                        for every club that participated in SMUSL in past and present while trying to consider these factors optimally.</p>
+                    
+                    <h2 align="center">Where wide-spread metrics fall short</h2>
+                    <p>It is said that anything can happen in a single game. Even when clubs are classes apart, 
+                        the outsider might win once in a while. When the difference in quality is smaller, 
+                        the outcome of a single game is even less predictable.</p>
+
+                    <h3 align="center">Titles</h3>
+                    <p>Greatness is often measured in the number of trophies collected. While certainly 
+                        better clubs win more titles than worse clubs, it is still a very unprecise measure.
+                        In a knock-out competition, only the winner survives each round, with the big random element 
+                        in each single game influencing the outcome drastically.
+                        League titles are not the best metric either. Due to the randomness of the game, 
+                        winning a league by a few points makes it only a bit more likely for the first placed team to be actually 
+                        better than the second placed team. If the points difference is bigger, then it is a lot more likely. 
+                        In your trophy cabinet, this does not matter, both count equally and the second club gets nothing just like every other team.</p>
+
+                    <h3 align="center">Points</h3>
+                    <p>So should we rather look for the number of points that a club achieved in a league to determine how good it is? 
+                        There are a few problems with that as well:
+                        Firstly, the three-point-rule. Winning and losing is worth more than drawing twice while both actually mean that you are on average as good as the opposition.
+                        Secondly, points do not take into account quality of opposition. You get more points against weaker teams than against strong teams, 
+                        measures like points per game ignore that completely. You could say that in a full season this equals out for all clubs.
+                        Thirdly, the arbitrary cut-off point. When looking at points, a game at the beginning of the season counts as much as the game last week 
+                        even though the game last week tells us probably more about the current strength of a team than a game months ago. Points or points-per-game ignore that.</p>
+
+                    <h2 align="center">What Elo can do about this</h2>
+                    <p>Elo estimates the strength of a club based on the results against opponents and their strength.</p>
+
+                    <h3 align="center">Quantify quality</h3>
+                    <p>The Elo system works with only a single number, the Elo value. The difference 
+                        in Elo points between two teams directly translates to a likelyhood of winning 
+                        against that team. When a club with a 20% winning probability (and 80% losing 
+                        probability, draw counting as half win/ half loss) wins it will gain 4 times more 
+                        Elo points than when it loses so that the two clubs Elo values will remain stable 
+                        relative to each other if the club actually wins 20% of the games. Should the club 
+                        win more than 20%, their Elo values will converge accordingly.</p>
+
+                    <h3 align="center">Recognise over/underperforming</h3>
+                    <p>The expected number of Elo points gained from the next match is always zero. 
+                        That means that over and underperforming over one or more games can be recognised 
+                        by the number of Elo points won or lost in this/these games. That makes it 
+                        very easy to actually judge how good a result or set of results has/have been.</p>
+
+                    <h3 align="center">Recent results are weighted more strongly</h3>
+                    <p>Every game's influence decreases when new games are played. In this way, 
+                        a club's Elo rating is a combination of all its past results with games 
+                        from the distant past having only a microscopic influence and newest games 
+                        influencing the rating most. This effect can be increased or decreased by 
+                        changing a parameter in the Elo equation and is chosen so that predictability is maximised.</p>
+
+                    <h2 align="center">Where Elo falls short</h2>
+                    <p>Elo does only consider results, it completely ignores how the game went. 
+                        There are metrics that are less affected by randomness that actualy look into
+                         what happens on the pitch. These methods can however introduce a bias 
+                         as the result is what clubs play for. How big the reduced randomness 
+                         and introduced bias compare depends on the method and is not always easy to quantify.</p>
+                
+                <hr>
+
+                modified from <a href="clubelo.com/TheCase">http://clubelo.com/TheCase</a>
+
                 </div>  
             </div>
         </div>
