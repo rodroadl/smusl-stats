@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>SMUSL STATS</title>
+        <link rel="StyleSheet" href="../css/style_index.css" type="text/css">
+        <meta name="author" content="James Kim">
+        <link rel="shortcut icon" type="image/x-icon" href="../fig/favicon.ico">
+        <script
+            src="https://code.jquery.com/jquery-3.7.0.min.js"
+            integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g="
+            crossorigin="anonymous">
+        </script>
+        <script  src="../script/script_index.js"></script>
+        
+    </head>
+
+    <body>
+        
+        <div class="header">
+            <div class="logo"><img alt="logo" class="logo" src="../fig/logo-01.png"></div>
+            <div class="top">
+                <h1 class="title">SMUSL STATS</h1>
+                <div class="topnav">
+                    <a href="../index.html">Home</a>
+                    <a href="about.html">About</a>
+                    <a class="active" href="match.html">Match</a>
+                    <a href="team.html">Team</a>
+                    <a href="forum.html">Forum</a>
+                    <a href="api.html">API</a>
+                    <a href="contact.html">Contact</a>
+                </div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="left">
+                <div class="block">
+                    <h1 align="center">Filter</h1>
+                    <p align="center">Click on the team to filter the table</p>
+                    <div id="observablehq-button_all-1d947641"></div>
+                    <div id="observablehq-button_baxter-1d947641"></div>
+                    <div id="observablehq-button_carlos-1d947641"></div>
+                    <div id="observablehq-button_duppy-1d947641"></div>
+                    <div id="observablehq-button_farmers-1d947641"></div>
+                    <div id="observablehq-button_heartbreakers-1d947641"></div>
+                    <div id="observablehq-button_jwgroup-1d947641"></div>
+                    <div id="observablehq-button_midcoast-1d947641"></div>
+                    <div id="observablehq-button_onelove-1d947641"></div>
+                    <div id="observablehq-button_phoenix-1d947641"></div>
+                    <div id="observablehq-button_escape-1d947641"></div>
+                    <div id="observablehq-button_timbers-1d947641"></div>
+                    <div id="observablehq-button_thunder-1d947641"></div>
+                    <div id="observablehq-button_uglt-1d947641"></div>
+                    <div id="observablehq-button_yankee-1d947641"></div>
+                </div>
+            </div>
+            <div class="right">
+                <div class="block">
+                    <h1 align="center">Match</h1>
+                    <div id="observablehq-viewof-search_match-1d947641"></div>
+                    <div id="observablehq-table_match-1d947641"></div>
+                </div>  
+            </div>
+        </div>
+    </body>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+    <script type="module">
+    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+    import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@279.js?v=4";
+    new Runtime().module(define, name => {
+      if (name === "button_all") return new Inspector(document.querySelector("#observablehq-button_all-1d947641"));
+      if (name === "button_baxter") return new Inspector(document.querySelector("#observablehq-button_baxter-1d947641"));
+      if (name === "button_carlos") return new Inspector(document.querySelector("#observablehq-button_carlos-1d947641"));
+      if (name === "button_duppy") return new Inspector(document.querySelector("#observablehq-button_duppy-1d947641"));
+      if (name === "button_farmers") return new Inspector(document.querySelector("#observablehq-button_farmers-1d947641"));
+      if (name === "button_heartbreakers") return new Inspector(document.querySelector("#observablehq-button_heartbreakers-1d947641"));
+      if (name === "button_jwgroup") return new Inspector(document.querySelector("#observablehq-button_jwgroup-1d947641"));
+      if (name === "button_midcoast") return new Inspector(document.querySelector("#observablehq-button_midcoast-1d947641"));
+      if (name === "button_onelove") return new Inspector(document.querySelector("#observablehq-button_onelove-1d947641"));
+      if (name === "button_phoenix") return new Inspector(document.querySelector("#observablehq-button_phoenix-1d947641"));
+      if (name === "button_escape") return new Inspector(document.querySelector("#observablehq-button_escape-1d947641"));
+      if (name === "button_timbers") return new Inspector(document.querySelector("#observablehq-button_timbers-1d947641"));
+      if (name === "button_thunder") return new Inspector(document.querySelector("#observablehq-button_thunder-1d947641"));
+      if (name === "button_uglt") return new Inspector(document.querySelector("#observablehq-button_uglt-1d947641"));
+      if (name === "button_yankee") return new Inspector(document.querySelector("#observablehq-button_yankee-1d947641"));
+      if (name === "data_match") return new Inspector(document.querySelector("#observablehq-data_match-1d947641"));
+      if (name === "viewof search_match") return new Inspector(document.querySelector("#observablehq-viewof-search_match-1d947641"));
+      if (name === "table_match") return new Inspector(document.querySelector("#observablehq-table_match-1d947641"));
+    });
+    </script>
+</html>

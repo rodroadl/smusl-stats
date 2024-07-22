@@ -23,9 +23,9 @@
                 <div class="topnav">
                     <a class="active" href="index.html">Home</a>
                     <a href="html/about.html">About</a>
-                    <a href="html/data.html">Data</a>
+                    <a href="html/match.html">Match</a>
+                    <a href="html/team.html">Team</a>
                     <a href="html/forum.html">Forum</a>
-                    <a href="html/methodology.html">Methodology</a>
                     <a href="html/api.html">API</a>
                     <a href="html/contact.html">Contact</a>
                 </div>
@@ -156,15 +156,15 @@
                 </div>  
                 <div id="upcoming" class="block">
                     <h2 align="center">The Upcoming Matches</h2>
-                    <div id="observablehq-table_upcoming-e3d3d0bf"></div>
+                    <div id="observablehq-table_upcoming-1d947641"></div>
                 </div>
                 <div id="biggest-upset" class="block">
                     <h2 align="center">The Biggest Upset</h2>
-                    <div id="observablehq-table_biggest_upset-e3d3d0bf"></div>
+                    <div id="observablehq-table_biggest_upset-1d947641"></div>
                 </div>
                 <div id="most-unexpected" class="block">
                     <h2 align="center">The Most Unexpected Outcome</h2>
-                    <div id="observablehq-table_most_unexpected-e3d3d0bf"></div>
+                    <div id="observablehq-table_most_unexpected-1d947641"></div>
                 </div>
             </div>
         </div>
@@ -173,11 +173,12 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
     <script type="module">
     import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-    import define from "https://api.observablehq.com/d/3ea298c3c8491a1f.js?v=4";
+    import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@279.js?v=4";
     new Runtime().module(define, name => {
-      if (name === "table_upcoming") return new Inspector(document.querySelector("#observablehq-table_upcoming-e3d3d0bf"));
-      if (name === "table_biggest_upset") return new Inspector(document.querySelector("#observablehq-table_biggest_upset-e3d3d0bf"));
-      if (name === "table_most_unexpected") return new Inspector(document.querySelector("#observablehq-table_most_unexpected-e3d3d0bf"));
+      if (name === "table_upcoming") return new Inspector(document.querySelector("#observablehq-table_upcoming-1d947641"));
+      if (name === "table_biggest_upset") return new Inspector(document.querySelector("#observablehq-table_biggest_upset-1d947641"));
+      if (name === "table_most_unexpected") return new Inspector(document.querySelector("#observablehq-table_most_unexpected-1d947641"));
+      return ["viewof search_match"].includes(name);
     });
     </script>
 
