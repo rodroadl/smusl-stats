@@ -10,8 +10,6 @@
 - [ ] merge table data to match
 - [ ] against other team stat
 - [ ] make the graph interactive
-- [ ] implement pre-season preparedness
-- [ ] create the dashboard
 - [ ] implement [winning/not-losing/not-winning/losing] streak
 
 - [-] ***HOLD***implement tilt
@@ -30,6 +28,7 @@
     - [?] The match odds are based on a result histogram for the two club's Elo difference.
     - [x] Used Elo-Davidson rating
 - [x] implement the Most Unexpected
+- [x] create the dashboard
 
 
 
