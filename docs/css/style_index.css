@@ -6,14 +6,12 @@ body {
     margin-left:auto;
     margin-right: auto;
     padding: 0px;
-    font-family: Calibri, Sans-Serif;
+    /* font-family: Calibri, Sans-Serif; */
 }
 
 .header{
     width:80%;
     display:flex;
-    background-color: rgba(0,40,0,.9);
-    color: white;
     text-align: center;
     justify-content: center;
     align-items: center;
@@ -60,7 +58,7 @@ img.logo{
 /* Style the links inside the navigation bar */
 .topnav a {
     float:left;
-    color: white;
+    color: black;
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -69,18 +67,20 @@ img.logo{
     text-decoration: none;
     font-size: 25px;
     border-radius: 7px;
+    margin-right:5px;
+    margin-bottom:5px;
   }
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: rgba(255,255,255,.5);
-    color: white;
+    background-color: rgba(0,0,0,.1);
+    color: rgb(0,70,0);
   }
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: white;
-    color: rgb(0,40,0);
+    background-color: rgba(0,40,0,0.4);
+    color: rgb(255,255,255);
   }
 
 
@@ -209,4 +209,124 @@ tr:last-child {
 input{
     background-color:rgba(0,0,0,.7);
     margin-bottom: 5px;
+}
+
+div.frame{
+    width: 100%;
+    background-image: url("../fig/textile-material-texture.jpg");
+    background-size: cover;
+    background-repeat:   no-repeat;
+    background-position: center center; 
+
+    border-image:url("../fig/black-wooden-floor.jpg") 100;
+    border-image-width: 100px;
+    /* border-image-repeat:stretch; */
+
+    margin-top: 30px;
+
+    padding: 100px;
+    text-align: right;
+    color:white;
+    font-size:10px;
+    
+}
+
+div.frame-header{
+    height:200px;
+    border-color:white;
+    border-style: solid;
+    border-width:3px;
+    width: 80%;
+    background-image: url("../fig/yellow-texture.jpg");
+    background-size: cover;
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    
+    padding: 0px;
+
+    display: flex;
+    margin-top:50px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 60px;
+    
+}
+
+div.frame-logo{
+    width:30%;
+    top: 100px;
+    margin: 5px;
+    padding: 0px;
+    height:200px;
+
+    display:flex;
+    align-items:center;
+}
+
+img.frame-logo {    
+
+    display:flex;
+    margin-left:auto;
+    margin-right:auto;
+    height: 130px;
+    filter: grayscale(1) contrast(100) brightness(1);
+    mix-blend-mode: multiply;
+ }
+
+div.frame-title{
+    color:black;
+    align-items:center;
+    text-align:center;
+    width:70%;
+    top: 100px;
+    
+    padding: 0px;
+    font-weight: bold;
+    font-size: 35px;
+
+    display:flex;
+    margin-left:auto;
+    margin-right:auto;
+
+    justify-content:center;
+    
+}
+
+div.frame-row{
+    display:table;
+    column-gap:40px;
+    justify-content:center;
+    display:flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    column-count:2;
+    height:100px;
+}
+
+div.frame-cell{
+    height: 100px;
+    border-color:white;
+    border-style: solid;
+    border-width: 3px;
+    width:40%;
+    background-color:black;
+    text-align:center;
+    font-weight: bold;
+}
+
+div.frame-cell-filled{
+    color:black;
+    font-size:20px;
+    height: 100px;
+    border-color:white;
+    border-style: solid;
+    border-width: 3px;
+    width:40%;
+    text-align:center;
+    font-weight: bold;
+
+    background-image: url("../fig/yellow-texture.jpg");
+    background-size: cover;
+    background-repeat:   no-repeat;
+    background-position: center center; 
 }

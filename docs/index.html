@@ -26,6 +26,7 @@
                     <a href="html/about.html">About</a>
                     <a href="html/match.html">Match</a>
                     <a href="html/team.html">Team</a>
+                    <a href="html/champion.html">Champion</a>
                     <a href="html/contact.html">Contact</a>
                 </div>
             </div>
@@ -60,7 +61,7 @@
                         <tr>
                             <td>2 </td> 
                             <td><button class="team" value="thunder-fc">Thunder FC</button></td>
-                            <td id="thunder-fc">1754</td>
+                            <td id="thunder-fc">1847</td>
                         </tr>
                         <tr>
                             <td>3 </td> 
@@ -68,55 +69,54 @@
                             <td id="duppy-conquerors">1670</td>
                         </tr>
                         <tr>
-                            <td>4 </td> 
-                            <td><button class="team" value="farmers-fc">Farmers FC</button></td>
-                            <td id="farmers-fc">1661</td>
+                            <td>4</td> 
+                            <td><button class="team" value="one-love-fc">One Love FC</button></td>
+                            <td id="one-love-fc">1596</td>
                         </tr>
-
                         <tr>
-                            <td>5</td> 
-                            <td><button class="team" value="carlos-auto-repair">Carlos Auto Repair</button></td>
-                            <td id="carlos-auto-repair">1575</td>
+                            <td>5 </td> 
+                            <td><button class="team" value="farmers-fc">Farmers FC</button></td>
+                            <td id="farmers-fc">1579</td>
                         </tr>
                         <tr>
                             <td>6</td> 
+                            <td><button class="team" value="carlos-auto-repair">Carlos Auto Repair</button></td>
+                            <td id="carlos-auto-repair">1528</td>
+                        </tr>
+                        <tr>
+                            <td>7</td> 
                             <td><button class="team" value="midcoast">Midcoast</button></td>
                             <td id="midcoast">1511</td>
                         </tr>
                         <tr>
-                            <td>7</td> 
-                            <td><button class="team" value="one-love-fc">One Love FC</button></td>
-                            <td id="one-love-fc">1487</td>
-                        </tr>
-                        <tr>
                             <td>8</td> 
                             <td><button class="team" value="old-port-fc">Old Port FC</button></td>
-                            <td id="old-port-fc">1448</td>
+                            <td id="old-port-fc">1500</td>
                         </tr>
                         <tr>
                             <td>9</td> 
-                            <td><button class="team" value="the-escape-room">The Escape Room</button></td>
-                            <td id="the-escape-room">1442</td>
-                        </tr>
-                        <tr>
-                            <td>10</td> 
                             <td><button class="team" value="portland-phoenix-fc">Portland Phoenix FC</button></td>
                             <td id="portland-phoenix-fc"> 1439 </td>
                         </tr>
                         <tr>
-                            <td>11</td> 
-                            <td><button class="team" value="baxter-pines-fc">Baxter Pines FC</button></td>
-                            <td id="baxter-pines-fc"> 1406</td>
+                            <td>10</td> 
+                            <td><button class="team" value="the-escape-room">The Escape Room</button></td>
+                            <td id="the-escape-room">1402</td>
                         </tr>
                         <tr>
                             <td>11</td> 
-                            <td><button class="team" value="lone-pine">Lone Pine</button></td>
-                            <td id="lone-pine"> 1398 </td>
+                            <td><button class="team" value="baxter-pines-fc">Baxter Pines FC</button></td>
+                            <td id="baxter-pines-fc"> 1389</td>
+                        </tr>
+                        <tr>
+                            <td>12</td> 
+                            <td><button class="team" value="the-real-portland-timbers">The Real Portland Timbers</button></td>
+                            <td id="the-real-portland-timbers">1342</td>
                         </tr>
                         <tr>
                             <td>13</td> 
-                            <td><button class="team" value="the-real-portland-timbers">The Real Portland Timbers</button></td>
-                            <td id="the-real-portland-timbers">1342</td>
+                            <td><button class="team" value="lone-pine">Lone Pine</button></td>
+                            <td id="lone-pine"> 1327 </td>
                         </tr>
                         <tr>
                             <td>14</td> 
@@ -156,15 +156,15 @@
                 </div>  
                 <div id="upcoming" class="block">
                     <h2 align="center">The Upcoming Matches</h2>
-                    <div id="observablehq-table_upcoming-d3514cd8"></div>
+                    <div id="observablehq-table_upcoming-74d66feb"></div>
                 </div>
                 <div id="biggest-upset" class="block">
                     <h2 align="center">The Biggest Upset</h2>
-                    <div id="observablehq-table_biggest_upset-d3514cd8"></div>
+                    <div id="observablehq-table_biggest_upset-74d66feb"></div>
                 </div>
                 <div id="most-unexpected" class="block">
                     <h2 align="center">The Most Unexpected Outcome</h2>
-                    <div id="observablehq-table_most_unexpected-d3514cd8"></div>
+                    <div id="observablehq-table_most_unexpected-74d66feb"></div>
                 </div>
             </div>
         </div>
@@ -173,11 +173,11 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
     <script type="module">
     import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-    import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@287.js?v=4";
+    import define from "https://api.observablehq.com/d/3ea298c3c8491a1f@291.js?v=4";
     new Runtime().module(define, name => {
-      if (name === "table_upcoming") return new Inspector(document.querySelector("#observablehq-table_upcoming-d3514cd8"));
-      if (name === "table_biggest_upset") return new Inspector(document.querySelector("#observablehq-table_biggest_upset-d3514cd8"));
-      if (name === "table_most_unexpected") return new Inspector(document.querySelector("#observablehq-table_most_unexpected-d3514cd8"));
+      if (name === "table_upcoming") return new Inspector(document.querySelector("#observablehq-table_upcoming-74d66feb"));
+      if (name === "table_biggest_upset") return new Inspector(document.querySelector("#observablehq-table_biggest_upset-74d66feb"));
+      if (name === "table_most_unexpected") return new Inspector(document.querySelector("#observablehq-table_most_unexpected-74d66feb"));
     });
     </script>
 

@@ -205,51 +205,58 @@ Week 1,2024-06-20,Thursday,19:15:00,Baxter Pines FC,Carlos Auto Repair,1.0,3.0,P
 Week 1,2024-06-20,Thursday,21:00:00,Farmers FC,Thunder FC,2.0,3.0,Caleb Lamb,Patrik Udeh,,,-18.39,1652.84,1680.89,21,50,29
 Week 2,2024-06-25,Tuesday,19:15:00,APEX Charters Lone Pine Brewing,Old Port FC,2.0,1.0,Dean Zoulamis,Patrik Udeh,,,21.3,1424.56,1447.2,22,50,28
 Week 2,2024-06-25,Tuesday,21:00:00,Carlos Auto Repair,Farmers FC,2.0,2.0,Patrik Udeh,Dean Zoulamis,,,5.35,1539.14,1634.45,13,47,40
-Week 2,2024-06-27,Thursday,19:35:00,One Love FC,Baxter Pines FC,2.0,1.0,Caleb Lamb,Eric,,,15.42,1551.91,1470.86,38,47,15
-Week 2,2024-06-27,Thursday,21:20:00,Thunder FC,The Escape Room,4.0,1.0,Eric,Caleb Lamb,,,10.72,1699.28,1402.27,72,26,2
+Week 2,2024-06-27,Thursday,19:35:00,One Love FC,Baxter Pines FC,2.0,1.0,Caleb Lamb,Eric Wiberg,,,15.42,1551.91,1470.86,38,47,15
+Week 2,2024-06-27,Thursday,21:20:00,Thunder FC,The Escape Room,4.0,1.0,Eric Wiberg,Caleb Lamb,,,10.72,1699.28,1402.27,72,26,2
 Week 3,2024-07-02,Tuesday,19:25:00,Baxter Pines FC,Old Port FC,0.0,4.0,Dean Zoulamis,Patrik Udeh,,,-40.68,1455.45,1425.9,29,50,21
 Week 3,2024-07-02,Tuesday,21:10:00,Farmers FC,One Love FC,1.0,0.0,Patrik Udeh,Dean Zoulamis,,,16.48,1629.1,1567.33,35,48,17
-Week 4,2024-07-09,Tuesday,21:10:00,Carlos Auto Repair,The Escape Room,1.0,1.0,Patrik Udeh,Dean Zoulamis,,,-8.28,1544.49,1391.55,50,41,9
 Week 4,2024-07-09,Tuesday,19:25:00,APEX Charters Lone Pine Brewing,Baxter Pines FC,0.0,1.0,Dean Zoulamis,Patrik Udeh,,,-21.79,1445.86,1414.76,30,49,21
-Week 4,2024-07-11,Thursday,19:25:00,Old Port FC,Farmers FC,0.0,1.0,Caleb Lamb,Eric,,,-10.52,1466.58,1645.58,7,39,54
-Week 4,2024-07-11,Thursday,21:10:00,One Love FC,Thunder FC,4.0,5.0,Eric,Caleb Lamb,,,-11.43,1550.85,1710.01,8,41,51
+Week 4,2024-07-09,Tuesday,21:10:00,Carlos Auto Repair,The Escape Room,1.0,1.0,Patrik Udeh,Dean Zoulamis,,,-8.28,1544.49,1391.55,50,41,9
+Week 4,2024-07-11,Thursday,21:10:00,One Love FC,Thunder FC,4.0,5.0,Eric Wiberg,Caleb Lamb,,,-11.43,1550.85,1710.01,8,41,51
+Week 4,2024-07-11,Thursday,19:25:00,Old Port FC,Farmers FC,0.0,1.0,Caleb Lamb,Eric Wiberg,,,-10.52,1466.58,1645.58,7,39,54
 Week 5,2024-07-16,Tuesday,19:25:00,Thunder FC,Old Port FC,1.0,0.0,Dean Zoulamis,Patrik Udeh,,,7.13,1721.44,1456.06,68,29,3
 Week 5,2024-07-16,Tuesday,21:10:00,Farmers FC,APEX Charters Lone Pine Brewing,,,,,,,0.0,1656.1,1424.08,63,33,4
-Week 5,2024-07-18,Thursday,19:25:00,Carlos Auto Repair,One Love FC,1.0,1.0,Caleb Lamb,Eric,,,0.18,1536.22,1539.42,25,50,25
-Week 5,2024-07-18,Thursday,21:10:00,Baxter Pines FC,The Escape Room,1.0,1.0,Eric,Caleb Lamb,,,-2.11,1436.55,1399.82,31,49,20
+Week 5,2024-07-18,Thursday,19:25:00,Carlos Auto Repair,One Love FC,1.0,1.0,Caleb Lamb,Eric Wiberg,,,0.18,1536.22,1539.42,25,50,25
+Week 5,2024-07-18,Thursday,21:10:00,Baxter Pines FC,The Escape Room,1.0,1.0,Eric Wiberg,Caleb Lamb,,,-2.11,1436.55,1399.82,31,49,20
 Week 6,2024-07-23,Tuesday,19:25:00,APEX Charters Lone Pine Brewing,Thunder FC,0.0,8.0,Dean Zoulamis,Patrik Udeh,,,-14.03,1424.08,1728.57,2,25,73
 Week 6,2024-07-23,Tuesday,21:10:00,Baxter Pines FC,Farmers FC,1.0,6.0,Patrik Udeh,Dean Zoulamis,,,-17.46,1434.44,1656.1,5,34,61
-Week 6,2024-07-25,Thursday,19:25:00,Old Port FC,Carlos Auto Repair,1.0,4.0,Caleb Lamb,Eric,,,-26.37,1448.92,1536.4,14,47,39
-Week 6,2024-07-25,Thursday,21:10:00,The Escape Room,One Love FC,1.0,0.0,Eric,Caleb Lamb,,,27.52,1401.93,1539.24,10,43,47
+Week 6,2024-07-25,Thursday,19:25:00,Old Port FC,Carlos Auto Repair,1.0,4.0,Caleb Lamb,Eric Wiberg,,,-26.37,1448.92,1536.4,14,47,39
+Week 6,2024-07-25,Thursday,21:10:00,The Escape Room,One Love FC,1.0,0.0,Eric Wiberg,Caleb Lamb,,,27.52,1401.93,1539.24,10,43,47
 Week 7,2024-07-30,Tuesday,19:25:00,Carlos Auto Repair,APEX Charters Lone Pine Brewing,3.0,2.0,Dean Zoulamis,Patrik Udeh,,,11.73,1562.77,1410.04,50,41,9
 Week 7,2024-07-30,Tuesday,21:10:00,Thunder FC,Baxter Pines FC,8.0,2.0,Patrik Udeh,Dean Zoulamis,,,11.31,1742.6,1416.98,75,23,2
-Week 7,2024-08-01,Thursday,21:10:00,One Love FC,Old Port FC,1.0,2.0,Eric,Caleb Lamb,,,-25.02,1511.72,1422.56,39,47,14
-Week 7,2024-08-01,Thursday,19:25:00,Farmers FC,The Escape Room,1.0,1.0,Caleb Lamb,Eric,,,-12.12,1673.56,1429.44,64,32,4
-Week 8,2024-08-06,Tuesday,19:25:00,Old Port FC,The Escape Room,,,,,,,0.0,1447.58,1441.57,26,50,24
-Week 8,2024-08-06,Tuesday,21:10:00,Carlos Auto Repair,Baxter Pines FC,,,,,,,0.0,1574.5,1405.68,53,39,8
-Week 8,2024-08-08,Thursday,19:25:00,Thunder FC,Farmers FC,,,,,,,0.0,1753.91,1661.44,40,46,14
-Week 8,2024-08-08,Thursday,21:10:00,APEX Charters Lone Pine Brewing,One Love FC,,,,,,,0.0,1398.31,1486.7,14,47,39
-Week 9,2024-08-13,Tuesday,19:25:00,Farmers FC,Carlos Auto Repair,,,,,,,0.0,1661.44,1574.5,39,47,14
-Week 9,2024-08-13,Tuesday,21:10:00,Old Port FC,APEX Charters Lone Pine Brewing,,,,,,,0.0,1447.58,1398.31,33,49,18
-Week 9,2024-08-15,Thursday,19:25:00,The Escape Room,Thunder FC,,,,,,,0.0,1441.57,1753.91,2,24,74
-Week 9,2024-08-15,Thursday,21:10:00,Baxter Pines FC,One Love FC,,,,,,,0.0,1405.68,1486.7,15,47,38
-Week 10,2024-08-20,Tuesday,19:25:00,One Love FC,Farmers FC,,,,,,,0.0,1486.7,1661.44,7,39,54
-Week 10,2024-08-20,Tuesday,21:10:00,APEX Charters Lone Pine Brewing,The Escape Room,,,,,,,0.0,1398.31,1441.57,19,49,32
-Week 10,2024-08-22,Thursday,19:25:00,Carlos Auto Repair,Thunder FC,,,,,,,0.0,1574.5,1753.91,7,39,54
-Week 10,2024-08-22,Thursday,21:10:00,Old Port FC,Baxter Pines FC,,,,,,,0.0,1447.58,1405.68,31,50,19
-Week 11,2024-08-27,Tuesday,21:10:00,The Escape Room,Carlos Auto Repair,,,,,,,0.0,1441.57,1574.5,10,43,47
-Week 11,2024-08-27,Tuesday,19:25:00,Baxter Pines FC,APEX Charters Lone Pine Brewing,,,,,,,0.0,1405.68,1398.31,26,50,24
-Week 11,2024-08-29,Thursday,19:25:00,Thunder FC,One Love FC,,,,,,,0.0,1753.91,1486.7,68,29,3
-Week 11,2024-08-29,Thursday,21:10:00,Farmers FC,Old Port FC,,,,,,,0.0,1661.44,1447.58,60,35,5
-Week 12,2024-09-03,Tuesday,19:25:00,One Love FC,Carlos Auto Repair,,,,,,,0.0,1486.7,1574.5,14,47,39
-Week 12,2024-09-03,Tuesday,21:10:00,The Escape Room,Baxter Pines FC,,,,,,,0.0,1441.57,1405.68,30,50,20
-Week 12,2024-09-05,Thursday,19:25:00,Old Port FC,Thunder FC,,,,,,,0.0,1447.58,1753.91,2,25,73
-Week 12,2024-09-05,Thursday,21:10:00,APEX Charters Lone Pine Brewing,Farmers FC,,,,,,,0.0,1398.31,1661.44,3,30,67
-Week 13,2024-09-10,Tuesday,19:25:00,One Love FC,The Escape Room,,,,,,,0.0,1486.7,1441.57,32,49,19
-Week 13,2024-09-10,Tuesday,21:10:00,Carlos Auto Repair,Old Port FC,,,,,,,0.0,1574.5,1447.58,46,43,11
-Week 13,2024-09-12,Thursday,19:25:00,Farmers FC,Baxter Pines FC,,,,,,,0.0,1661.44,1405.68,66,31,3
-Week 13,2024-09-12,Thursday,21:10:00,Thunder FC,APEX Charters Lone Pine Brewing,,,,,,,0.0,1753.91,1398.31,78,21,1
-Week 14,2024-09-17,Tuesday,19:25:00,The Escape Room,Farmers FC,,,,,,,0.0,1441.57,1661.44,5,34,61
-Week 14,2024-09-17,Tuesday,21:10:00,APEX Charters Lone Pine Brewing,Carlos Auto Repair,,,,,,,0.0,1398.31,1574.5,7,39,54
-Week 14,2024-09-19,Thursday,19:25:00,Baxter Pines FC,Thunder FC,,,,,,,0.0,1405.68,1753.91,1,21,78
-Week 14,2024-09-19,Thursday,21:10:00,Old Port FC,One Love FC,,,,,,,0.0,1447.58,1486.7,20,49,31
+Week 7,2024-08-01,Thursday,19:25:00,Farmers FC,The Escape Room,1.0,1.0,Caleb Lamb,Eric Wiberg,,,-12.12,1673.56,1429.44,64,32,4
+Week 7,2024-08-01,Thursday,21:10:00,One Love FC,Old Port FC,1.0,2.0,Eric Wiberg,Caleb Lamb,,,-25.02,1511.72,1422.56,39,47,14
+Week 8,2024-08-06,Tuesday,19:25:00,Old Port FC,The Escape Room,2.0,1.0,Dean Zoulamis,Patrik Udeh,,,19.65,1447.58,1441.57,26,50,24
+Week 8,2024-08-06,Tuesday,21:10:00,Carlos Auto Repair,Baxter Pines FC,1.0,1.0,Patrik Udeh,Dean Zoulamis,,,-9.02,1574.5,1405.68,53,39,8
+Week 8,2024-08-08,Thursday,21:10:00,APEX Charters Lone Pine Brewing,One Love FC,1.0,6.0,Eric Wiberg,Caleb Lamb,,,-30.04,1398.31,1486.7,14,47,39
+Week 8,2024-08-08,Thursday,19:25:00,Thunder FC,Farmers FC,2.0,3.0,Caleb Lamb,Eric Wiberg,,,-25.2,1753.91,1661.44,40,46,14
+Week 9,2024-08-13,Tuesday,19:25:00,Farmers FC,Carlos Auto Repair,3.0,1.0,Dean Zoulamis,Patrik Udeh,,,19.94,1686.64,1565.48,45,44,11
+Week 9,2024-08-13,Tuesday,21:10:00,Old Port FC,APEX Charters Lone Pine Brewing,4.0,1.0,Patrik Udeh,Dean Zoulamis,,,25.29,1467.23,1368.27,41,46,13
+Week 9,2024-08-15,Thursday,19:25:00,The Escape Room,Thunder FC,1.0,2.0,Patrik Udeh,Eric Wiberg,,,-5.84,1421.91,1728.71,2,25,73
+Week 9,2024-08-15,Thursday,21:10:00,Baxter Pines FC,One Love FC,0.0,6.0,Eric Wiberg,Patrik Udeh,,,-30.37,1414.7,1516.73,13,46,41
+Week 10,2024-08-20,Tuesday,19:25:00,One Love FC,Farmers FC,7.0,1.0,Dean Zoulamis,Patrik Udeh,,,60.74,1547.1,1706.58,8,41,51
+Week 10,2024-08-20,Tuesday,21:10:00,APEX Charters Lone Pine Brewing,The Escape Room,0.0,4.0,Patrik Udeh,Dean Zoulamis,,,-29.73,1342.98,1416.07,16,48,36
+Week 10,2024-08-22,Thursday,19:25:00,Carlos Auto Repair,Thunder FC,0.0,4.0,Eric Wiberg,Patrik Udeh,,,-18.9,1545.54,1734.55,6,38,56
+Week 10,2024-08-22,Thursday,21:10:00,Old Port FC,Baxter Pines FC,0.0,0.0,Patrik Udeh,Eric Wiberg,,,-6.03,1492.52,1384.33,42,46,12
+Week 11,2024-08-27,Tuesday,19:25:00,Baxter Pines FC,APEX Charters Lone Pine Brewing,0.0,1.0,Dean Zoulamis,Nick Benson,,,-24.37,1390.37,1313.25,37,48,15
+Week 11,2024-08-27,Tuesday,21:10:00,The Escape Room,Carlos Auto Repair,3.0,4.0,Nick Benson,Dean Zoulamis,,,-15.43,1445.8,1526.64,15,47,38
+Week 11,2024-08-29,Thursday,19:25:00,Thunder FC,One Love FC,5.0,2.0,Eric Wiberg,Patrik Udeh,,,21.13,1753.45,1607.84,49,42,9
+Week 11,2024-08-29,Thursday,21:10:00,Farmers FC,Old Port FC,2.0,1.0,Patrik Udeh,Eric Wiberg,,,11.42,1645.84,1486.49,51,41,8
+Week 12,2024-09-03,Tuesday,21:10:00,The Escape Room,Baxter Pines FC,2.0,1.0,Patrik Udeh,Dean Zoulamis,,,16.34,1430.37,1366.0,35,48,17
+Week 12,2024-09-03,Tuesday,19:25:00,One Love FC,Carlos Auto Repair,1.0,0.0,Dean Zoulamis,Patrik Udeh,,,17.44,1586.71,1542.07,32,49,19
+Week 12,2024-09-05,Thursday,21:10:00,APEX Charters Lone Pine Brewing,Farmers FC,3.0,3.0,Patrik Udeh,Eric Wiberg,,,14.52,1337.62,1657.26,2,24,74
+Week 12,2024-09-05,Thursday,19:25:00,Old Port FC,Thunder FC,0.0,7.0,Eric Wiberg,Patrik Udeh,,,-13.62,1475.07,1774.58,2,26,72
+Week 13,2024-09-10,Tuesday,19:25:00,One Love FC,The Escape Room,4.0,1.0,Nick Benson,Patrik Udeh,,,20.14,1604.15,1446.7,51,41,8
+Week 13,2024-09-10,Tuesday,21:10:00,Carlos Auto Repair,Old Port FC,0.0,1.0,Patrik Udeh,Nick Benson,,,-23.6,1524.63,1461.45,35,48,17
+Week 13,2024-09-12,Thursday,19:25:00,Farmers FC,Baxter Pines FC,1.0,2.0,Eric Wiberg,Dean Zoulamis,,,-33.75,1642.74,1349.66,71,27,2
+Week 13,2024-09-12,Thursday,21:10:00,Thunder FC,APEX Charters Lone Pine Brewing,8.0,1.0,Dean Zoulamis,Eric Wiberg,,,6.76,1788.2,1352.14,86,13,1
+Week 14,2024-09-17,Tuesday,19:25:00,The Escape Room,Farmers FC,0.0,1.0,Nick Benson,Patrik Udeh,,,-10.37,1426.56,1608.99,7,38,55
+Week 14,2024-09-17,Tuesday,21:10:00,APEX Charters Lone Pine Brewing,Carlos Auto Repair,1.0,2.0,Patrik Udeh,Nick Benson,,,-11.59,1345.38,1501.03,8,42,50
+Week 14,2024-09-19,Thursday,19:25:00,Baxter Pines FC,Thunder FC,0.0,2.0,Dean Zoulamis,Eric Wiberg,,,-5.13,1383.42,1794.97,1,15,84
+Week 14,2024-09-19,Thursday,21:10:00,Old Port FC,One Love FC,2.0,0.0,Eric Wiberg,Dean Zoulamis,,,41.42,1485.05,1624.3,10,42,48
+Quarter-Finals,2024-10-01,Tuesday,19:25:00,Thunder FC,APEX Charters Lone Pine Brewing,7.0,2.0,Patrik Udeh,Nick Benson,,,6.39,1800.1,1333.78,88,12,0
+Quarter-Finals,2024-10-01,Tuesday,21:10:00,One Love FC,The Escape Room,3.0,2.0,Nick Benson,Patrik Udeh,,,13.85,1582.88,1416.19,52,40,8
+Quarter-Finals,2024-10-03,Thursday,19:25:00,Carlos Auto Repair,Old Port FC,1.0,0.0,Patrik Udeh,Eric Wiberg,Ben (Pyta) Lomeri,,26.0,1512.62,1526.46,23,50,27
+Quarter-Finals,2024-10-03,Thursday,21:10:00,Farmers FC,Baxter Pines FC,1.0,2.0,Eric Wiberg,Patrik Udeh,Ben (Pyta) Lomeri,,-40.01,1619.35,1378.28,64,32,4
+Semi-Finals,2024-10-08,Tuesday,21:10:00,Baxter Pines FC,One Love FC,0.0,4.0,Eric Wiberg,Nick Benson,Patrik Udeh,,-29.66,1418.29,1596.73,7,39,54
+Semi-Finals,2024-10-08,Tuesday,19:25:00,Thunder FC,Carlos Auto Repair,4.0,3.0,Nick Benson,Eric Wiberg,Patrik Udeh,,10.57,1806.49,1538.62,68,29,3
+Final,2024-10-15,Tuesday,19:25:00,Thunder FC,One Love FC,2.0,0.0,Patrik Udeh,Dean Zoulamis,Eric Wiberg,,30.02,1817.06,1626.39,56,38,6
